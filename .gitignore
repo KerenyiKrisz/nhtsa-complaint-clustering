@@ -16,3 +16,7 @@ venv/
 # Office and Power BI temp files
 ~$*
 *.pbix.bak
+
+# Local copies of PDFs that live in docs/
+Ford_Customer_Complaints.pdf
+Kerenyi_Complaint_Text_Analysis.pdf
