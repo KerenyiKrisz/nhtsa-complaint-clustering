@@ -35,7 +35,7 @@ Personal fields (vehicle operator name, city, VIN, dealer details) are dropped w
 | 5 | `step5_export_powerbi.py`, `step5_measures.dax` | Star schema for Power BI (fact, problem, cluster, component bridge, severity, date) and the DAX measures. |
 | 6 | `step6_accuracy_sample.py`, `step6_accuracy_score.py` | Draws 200 random complaints for a manual accuracy check and scores the result. |
 
-The report is `Ford_Customer_Complaints.pbix` (also as [PDF](docs/dashboard.pdf)).
+The report is `Ford_Customer_Complaints.pbix` (also as [PDF](docs/dashboard.pdf)). A one-page summary is in [docs/one_pager.pdf](docs/one_pager.pdf).
 
 ## Decisions that mattered
 
