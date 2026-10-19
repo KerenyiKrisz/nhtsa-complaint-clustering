@@ -1,0 +1,108 @@
+// Power BI measures for the complaint analysis.
+// Create an empty table called _Measures (Home > Enter data > Load), then add each
+// measure with Modeling > New measure, one at a time. Format percentages as %.
+
+// ---------------------------------------------------------------- volume
+Complaints =
+COUNTROWS ( fact_complaint )
+
+// Impact proxy: complaints weighted by severity (see dim_severity for the weights).
+Weighted complaints =
+SUMX ( fact_complaint, RELATED ( dim_severity[weight] ) )
+
+Severe complaints =
+CALCULATE ( [Complaints], dim_severity[severity_level] >= 3 )
+
+Severe share =
+DIVIDE ( [Severe complaints], [Complaints] )
+
+Share of complaints =
+DIVIDE ( [Complaints], CALCULATE ( [Complaints], ALLSELECTED ( dim_problem ) ) )
+
+// Share of all complaints that fall into a recurring problem (not one-offs).
+Recurring problem coverage =
+DIVIDE (
+    CALCULATE ( [Complaints], dim_problem[is_recurring_problem] = TRUE () ),
+    CALCULATE ( [Complaints], ALL ( dim_problem ) )
+)
+
+// ---------------------------------------------------------------- Pareto
+// Cumulative share of the problems at or above the current one, by volume.
+// Counted over all recurring problems, so a Top N filter on a visual does not change it.
+// ALLEXCEPT clears the hidden problem_id filter that Sort by column adds to each row.
+Pareto cumulative % =
+VAR CurrentValue = [Complaints]
+VAR Problems =
+    ADDCOLUMNS (
+        CALCULATETABLE ( VALUES ( dim_problem[problem] ), ALL ( dim_problem ), dim_problem[is_recurring_problem] = TRUE () ),
+        "@value", CALCULATE ( [Complaints], ALLEXCEPT ( dim_problem, dim_problem[problem] ) )
+    )
+VAR Cumulative =
+    SUMX ( FILTER ( Problems, [@value] >= CurrentValue ), [@value] )
+RETURN
+    DIVIDE ( Cumulative, SUMX ( Problems, [@value] ) )
+
+// Same, ranked by severity-weighted volume.
+Pareto cumulative % weighted =
+VAR CurrentValue = [Weighted complaints]
+VAR Problems =
+    ADDCOLUMNS (
+        CALCULATETABLE ( VALUES ( dim_problem[problem] ), ALL ( dim_problem ), dim_problem[is_recurring_problem] = TRUE () ),
+        "@value", CALCULATE ( [Weighted complaints], ALLEXCEPT ( dim_problem, dim_problem[problem] ) )
+    )
+VAR Cumulative =
+    SUMX ( FILTER ( Problems, [@value] >= CurrentValue ), [@value] )
+RETURN
+    DIVIDE ( Cumulative, SUMX ( Problems, [@value] ) )
+
+// ---------------------------------------------------------------- trend
+// Anchored on the last complaint date in the data, not on today.
+Complaints last 12M =
+VAR EndDate = CALCULATE ( MAX ( fact_complaint[received_date] ), ALL ( fact_complaint ) )
+RETURN
+    CALCULATE ( [Complaints], DATESINPERIOD ( dim_date[date], EndDate, -12, MONTH ) )
+
+Complaints prior 12M =
+VAR EndDate = EDATE ( CALCULATE ( MAX ( fact_complaint[received_date] ), ALL ( fact_complaint ) ), -12 )
+RETURN
+    CALCULATE ( [Complaints], DATESINPERIOD ( dim_date[date], EndDate, -12, MONTH ) )
+
+Change vs prior 12M =
+DIVIDE ( [Complaints last 12M] - [Complaints prior 12M], [Complaints prior 12M] )
+
+// ---------------------------------------------------------------- recurrence
+// No customer ID in public data, so recurrence = the same problem across the fleet and over time.
+Models affected =
+DISTINCTCOUNT ( fact_complaint[model] )
+
+Model years affected =
+DISTINCTCOUNT ( fact_complaint[model_year] )
+
+// Months in which the problem was reported at least 5 times.
+Active months =
+COUNTROWS ( FILTER ( VALUES ( dim_date[month_start] ), [Complaints] >= 5 ) )
+
+Persistence =
+DIVIDE (
+    [Active months],
+    CALCULATE ( DISTINCTCOUNT ( dim_date[month_start] ), ALLSELECTED ( dim_date ) )
+)
+
+// ---------------------------------------------------------------- service process
+Hotline share =
+DIVIDE ( CALCULATE ( [Complaints], fact_complaint[channel] = "Hotline" ), [Complaints] )
+
+Recall parts delay share =
+DIVIDE ( CALCULATE ( [Complaints], fact_complaint[recall_parts_delay] = 1 ), [Complaints] )
+
+// Complaints whose NHTSA code is only "UNKNOWN OR OTHER": the text found what the code missed.
+Code unknown share =
+DIVIDE ( CALCULATE ( [Complaints], fact_complaint[code_unknown_only] = 1 ), [Complaints] )
+
+// ---------------------------------------------------------------- headline
+// Share of recurring-problem complaints that the 10 largest problems account for.
+Top 10 problems share =
+VAR Recurring = FILTER ( ALL ( dim_problem ), dim_problem[is_recurring_problem] = TRUE () )
+VAR Top10 = TOPN ( 10, Recurring, [Complaints] )
+RETURN
+    DIVIDE ( CALCULATE ( [Complaints], Top10 ), CALCULATE ( [Complaints], Recurring ) )

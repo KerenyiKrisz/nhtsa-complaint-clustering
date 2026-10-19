@@ -1,0 +1,201 @@
+review_id,complaint_id,assignment,centroid_similarity,cluster_id,problem_id,problem
+1,11567218,core,0.71,20,26,Airbags fail to deploy or inflate
+2,11667210,core,0.718,5,5,Transmission unexpectedly downshifts
+3,11648080,core,0.639,7,6,Violent front-end shaking after bumps (death wobble)
+4,11454982,nearest,0.741,64,18,Engine stalls while driving
+5,11511591,nearest,0.665,5,5,Transmission unexpectedly downshifts
+6,11328771,nearest,0.611,42,7,"Backup camera image blank, distorted or flipped"
+7,11480295,core,0.751,9,2,Power steering assist fails while driving
+8,11351522,nearest,0.688,52,1,"Coolant leaks into cylinders, engine needs replacing"
+9,11760894,nearest,0.701,16,3,"Transmission slips, shifts hard or fails"
+10,11759309,core,0.684,3,3,"Transmission slips, shifts hard or fails"
+11,11725622,core,0.977,74,37,Recall parts unavailable: fuel system
+12,11517486,nearest,0.61,60,10,Vehicle hesitates or loses power when accelerating
+13,11679678,nearest,0.7,5,5,Transmission unexpectedly downshifts
+14,11678368,core,0.768,46,45,Rear axle bolt shears off
+15,11759597,nearest,0.674,46,45,Rear axle bolt shears off
+16,11408578,nearest,0.699,70,4,"Brake pedal sinks to floor, brake fluid leak"
+17,11667188,core,0.686,14,19,Driver door spot welds fracture
+18,11532173,nearest,0.657,60,10,Vehicle hesitates or loses power when accelerating
+19,11385770,core,0.678,30,31,Rear window glass shatters spontaneously
+20,11402969,core,0.706,46,45,Rear axle bolt shears off
+21,11438962,nearest,0.811,11,14,Transmission lead frame causes violent downshift
+22,11558911,core,0.682,64,18,Engine stalls while driving
+23,11486733,nearest,0.672,41,9,Recall parts unavailable: backup camera
+24,11720109,core,0.748,48,12,"Door latch fails, door does not stay closed"
+25,11376135,core,0.66,66,40,Steering rack pinion fails
+26,11588463,core,0.643,11,14,Transmission lead frame causes violent downshift
+27,11529874,core,0.714,3,3,"Transmission slips, shifts hard or fails"
+28,11317342,core,0.533,67,55,Oil pan leaks and requires replacement
+29,11390698,nearest,0.868,13,2,Power steering assist fails while driving
+30,11419353,nearest,0.81,10,13,Gear shifter cable bushing detaches
+31,11613034,core,0.879,12,22,Seat belt retractors fail to extend
+32,11687824,core,0.845,80,7,"Backup camera image blank, distorted or flipped"
+33,11397131,core,0.824,7,6,Violent front-end shaking after bumps (death wobble)
+34,11609015,core,0.821,25,32,Lug nuts swell and fail to remove
+35,11606188,nearest,0.717,6,1,"Coolant leaks into cylinders, engine needs replacing"
+36,11648815,nearest,0.784,52,1,"Coolant leaks into cylinders, engine needs replacing"
+37,11315594,nearest,0.699,7,6,Violent front-end shaking after bumps (death wobble)
+38,11742345,nearest,0.698,42,7,"Backup camera image blank, distorted or flipped"
+39,11483336,nearest,0.742,16,3,"Transmission slips, shifts hard or fails"
+40,11494762,core,0.655,29,35,Headlight assembly delaminates and fails
+41,11704606,core,0.528,8,15,Cam phasers fail causing rattling sound
+42,11681421,nearest,0.601,73,60,Flex plate cracks and rattles
+43,11662081,core,0.854,2,8,A-pillar trim detaches from windshield
+44,11640661,core,0.902,2,8,A-pillar trim detaches from windshield
+45,11306288,nearest,0.746,36,10,Vehicle hesitates or loses power when accelerating
+46,11412929,nearest,0.763,7,6,Violent front-end shaking after bumps (death wobble)
+47,11604065,core,0.699,15,1,"Coolant leaks into cylinders, engine needs replacing"
+48,11553615,core,0.635,7,6,Violent front-end shaking after bumps (death wobble)
+49,11523373,nearest,0.652,10,13,Gear shifter cable bushing detaches
+50,11679757,core,0.874,2,8,A-pillar trim detaches from windshield
+51,11308316,nearest,0.66,46,45,Rear axle bolt shears off
+52,11353879,nearest,0.653,7,6,Violent front-end shaking after bumps (death wobble)
+53,11688427,core,0.686,85,64,Rear liftgate opens unexpectedly
+54,11683883,nearest,0.766,15,1,"Coolant leaks into cylinders, engine needs replacing"
+55,11419134,nearest,0.617,22,25,Airbag warning light illuminates
+56,11520988,core,0.782,49,27,Brake booster fails to engage
+57,11634954,nearest,0.631,13,2,Power steering assist fails while driving
+58,11327758,core,0.791,4,2,Power steering assist fails while driving
+59,11502756,nearest,0.621,51,16,Torque converter or clutch shudder
+60,11575386,core,0.664,16,3,"Transmission slips, shifts hard or fails"
+61,11455973,nearest,0.76,50,5,Transmission unexpectedly downshifts
+62,11633739,core,0.763,4,2,Power steering assist fails while driving
+63,11422142,core,0.615,11,14,Transmission lead frame causes violent downshift
+64,11539945,core,0.714,12,22,Seat belt retractors fail to extend
+65,11696539,core,0.723,44,43,Recall parts unavailable: several open recalls
+66,11498925,nearest,0.637,41,9,Recall parts unavailable: backup camera
+67,11389813,core,0.789,39,6,Violent front-end shaking after bumps (death wobble)
+68,11478284,nearest,0.77,58,7,"Backup camera image blank, distorted or flipped"
+69,11403903,core,0.752,18,23,Engine compartment catches fire
+70,11673987,nearest,0.864,2,8,A-pillar trim detaches from windshield
+71,11421144,core,0.758,4,2,Power steering assist fails while driving
+72,11519103,nearest,0.724,16,3,"Transmission slips, shifts hard or fails"
+73,11631935,nearest,0.653,9,2,Power steering assist fails while driving
+74,11388672,core,0.712,30,31,Rear window glass shatters spontaneously
+75,11590887,nearest,0.653,67,55,Oil pan leaks and requires replacement
+76,11587944,nearest,0.818,36,10,Vehicle hesitates or loses power when accelerating
+77,11640906,core,0.653,17,9,Recall parts unavailable: backup camera
+78,11704552,nearest,0.809,6,1,"Coolant leaks into cylinders, engine needs replacing"
+79,11515994,nearest,0.761,49,27,Brake booster fails to engage
+80,11661692,nearest,0.709,58,7,"Backup camera image blank, distorted or flipped"
+81,11398411,core,0.499,16,3,"Transmission slips, shifts hard or fails"
+82,11634805,core,0.744,29,35,Headlight assembly delaminates and fails
+83,11433138,core,0.833,52,1,"Coolant leaks into cylinders, engine needs replacing"
+84,11300859,nearest,0.641,49,27,Brake booster fails to engage
+85,11541145,nearest,0.798,6,1,"Coolant leaks into cylinders, engine needs replacing"
+86,11559770,core,0.81,52,1,"Coolant leaks into cylinders, engine needs replacing"
+87,11389832,nearest,0.83,13,2,Power steering assist fails while driving
+88,11568124,core,0.609,21,20,"High-voltage battery fault, vehicle will not start"
+89,11327145,nearest,0.834,9,2,Power steering assist fails while driving
+90,11716300,core,0.754,65,53,Internal water pump leaks coolant
+91,11317659,core,0.769,32,41,Windshield wiper motor fails intermittently
+92,11686453,nearest,0.607,60,10,Vehicle hesitates or loses power when accelerating
+93,11447826,nearest,0.695,72,24,Oil pump failure or low oil pressure damages engine
+94,11478389,core,0.586,12,22,Seat belt retractors fail to extend
+95,11390075,core,0.548,5,5,Transmission unexpectedly downshifts
+96,11306339,nearest,0.693,39,6,Violent front-end shaking after bumps (death wobble)
+97,11630612,nearest,0.685,47,48,Water leaks into cabin from roof
+98,11761806,core,0.74,20,26,Airbags fail to deploy or inflate
+99,11732384,core,0.815,30,31,Rear window glass shatters spontaneously
+100,11492301,nearest,0.615,82,1,"Coolant leaks into cylinders, engine needs replacing"
+101,11735998,core,0.869,80,7,"Backup camera image blank, distorted or flipped"
+102,11679113,core,0.904,28,1,"Coolant leaks into cylinders, engine needs replacing"
+103,11555715,nearest,0.792,71,34,Recall parts unavailable: power train
+104,11539730,nearest,0.727,13,2,Power steering assist fails while driving
+105,11616518,nearest,0.791,16,3,"Transmission slips, shifts hard or fails"
+106,11450332,nearest,0.666,54,16,Torque converter or clutch shudder
+107,11432696,core,0.558,60,10,Vehicle hesitates or loses power when accelerating
+108,11374349,core,0.817,63,57,Tailgate unlatches and opens unexpectedly
+109,11323647,nearest,0.672,3,3,"Transmission slips, shifts hard or fails"
+110,11616688,nearest,0.713,52,1,"Coolant leaks into cylinders, engine needs replacing"
+111,11527342,nearest,0.677,6,1,"Coolant leaks into cylinders, engine needs replacing"
+112,11572441,core,0.608,20,26,Airbags fail to deploy or inflate
+113,11649009,nearest,0.671,83,33,"Unintended acceleration despite braking, crash"
+114,11734138,nearest,0.612,49,27,Brake booster fails to engage
+115,11730108,core,0.952,17,9,Recall parts unavailable: backup camera
+116,11495227,nearest,0.823,9,2,Power steering assist fails while driving
+117,11361431,core,0.749,5,5,Transmission unexpectedly downshifts
+118,11519416,core,0.782,76,61,Rear suspension toe link fractures
+119,11737679,nearest,0.819,9,2,Power steering assist fails while driving
+120,11616854,core,0.717,5,5,Transmission unexpectedly downshifts
+121,11526928,core,0.736,60,10,Vehicle hesitates or loses power when accelerating
+122,11641790,nearest,0.637,21,20,"High-voltage battery fault, vehicle will not start"
+123,11385497,nearest,0.668,16,3,"Transmission slips, shifts hard or fails"
+124,11435729,nearest,0.835,58,7,"Backup camera image blank, distorted or flipped"
+125,11668876,core,0.857,2,8,A-pillar trim detaches from windshield
+126,11600507,core,0.906,38,21,Recall parts unavailable: engine cooling
+127,11471837,nearest,0.637,50,5,Transmission unexpectedly downshifts
+128,11555229,nearest,0.747,39,6,Violent front-end shaking after bumps (death wobble)
+129,11583175,core,0.707,5,5,Transmission unexpectedly downshifts
+130,11431034,core,0.796,87,67,Trailer brake controller fails to apply brakes
+131,11586200,nearest,0.746,37,1,"Coolant leaks into cylinders, engine needs replacing"
+132,11527225,core,0.723,6,1,"Coolant leaks into cylinders, engine needs replacing"
+133,11663685,core,0.711,3,3,"Transmission slips, shifts hard or fails"
+134,11553756,nearest,0.755,82,1,"Coolant leaks into cylinders, engine needs replacing"
+135,11748921,core,0.713,12,22,Seat belt retractors fail to extend
+136,11742691,nearest,0.702,5,5,Transmission unexpectedly downshifts
+137,11496229,core,0.804,15,1,"Coolant leaks into cylinders, engine needs replacing"
+138,11464479,nearest,0.7,83,33,"Unintended acceleration despite braking, crash"
+139,11720682,core,0.719,41,9,Recall parts unavailable: backup camera
+140,11502599,nearest,0.673,19,17,Driver assist systems malfunction intermittently
+141,11651990,nearest,0.748,50,5,Transmission unexpectedly downshifts
+142,11542748,nearest,0.73,82,1,"Coolant leaks into cylinders, engine needs replacing"
+143,11716703,nearest,0.764,16,3,"Transmission slips, shifts hard or fails"
+144,11677005,core,0.551,47,48,Water leaks into cabin from roof
+145,11697997,core,0.558,21,20,"High-voltage battery fault, vehicle will not start"
+146,11610197,core,0.698,5,5,Transmission unexpectedly downshifts
+147,11647461,core,0.8,13,2,Power steering assist fails while driving
+148,11632581,nearest,0.633,6,1,"Coolant leaks into cylinders, engine needs replacing"
+149,11465379,core,0.707,1,4,"Brake pedal sinks to floor, brake fluid leak"
+150,11384321,core,0.606,7,6,Violent front-end shaking after bumps (death wobble)
+151,11560912,nearest,0.714,60,10,Vehicle hesitates or loses power when accelerating
+152,11376194,nearest,0.738,9,2,Power steering assist fails while driving
+153,11483962,core,0.877,4,2,Power steering assist fails while driving
+154,11674561,core,0.549,5,5,Transmission unexpectedly downshifts
+155,11665096,core,0.737,18,23,Engine compartment catches fire
+156,11608300,core,0.7,47,48,Water leaks into cabin from roof
+157,11577766,nearest,0.691,60,10,Vehicle hesitates or loses power when accelerating
+158,11564489,nearest,0.668,36,10,Vehicle hesitates or loses power when accelerating
+159,11536644,core,0.651,40,44,HVAC blower motor fails to operate
+160,11544583,core,0.684,10,13,Gear shifter cable bushing detaches
+161,11756792,nearest,0.601,15,1,"Coolant leaks into cylinders, engine needs replacing"
+162,11638053,nearest,0.811,36,10,Vehicle hesitates or loses power when accelerating
+163,11657325,nearest,0.803,83,33,"Unintended acceleration despite braking, crash"
+164,11489829,nearest,0.773,9,2,Power steering assist fails while driving
+165,11600957,core,0.591,1,4,"Brake pedal sinks to floor, brake fluid leak"
+166,11539827,core,0.702,21,20,"High-voltage battery fault, vehicle will not start"
+167,11544773,nearest,0.665,51,16,Torque converter or clutch shudder
+168,11590825,core,0.661,9,2,Power steering assist fails while driving
+169,11660625,nearest,0.732,77,51,Rear differential bearing fails
+170,11736550,core,0.773,30,31,Rear window glass shatters spontaneously
+171,11461204,core,0.808,24,1,"Coolant leaks into cylinders, engine needs replacing"
+172,11656591,core,0.889,50,5,Transmission unexpectedly downshifts
+173,11497136,core,0.711,60,10,Vehicle hesitates or loses power when accelerating
+174,11685653,core,0.654,23,29,Panoramic sunroof glass shatters spontaneously
+175,11425209,nearest,0.724,55,2,Power steering assist fails while driving
+176,11472328,nearest,0.792,16,3,"Transmission slips, shifts hard or fails"
+177,11519290,nearest,0.68,3,3,"Transmission slips, shifts hard or fails"
+178,11443306,core,0.831,25,32,Lug nuts swell and fail to remove
+179,11382997,nearest,0.749,44,43,Recall parts unavailable: several open recalls
+180,11432478,nearest,0.789,49,27,Brake booster fails to engage
+181,11670310,core,0.753,16,3,"Transmission slips, shifts hard or fails"
+182,11533694,core,0.855,25,32,Lug nuts swell and fail to remove
+183,11652684,nearest,0.769,15,1,"Coolant leaks into cylinders, engine needs replacing"
+184,11440187,nearest,0.755,55,2,Power steering assist fails while driving
+185,11348988,nearest,0.658,18,23,Engine compartment catches fire
+186,11757980,nearest,0.819,50,5,Transmission unexpectedly downshifts
+187,11678934,core,0.626,46,45,Rear axle bolt shears off
+188,11511718,nearest,0.609,2,8,A-pillar trim detaches from windshield
+189,11676725,core,0.683,6,1,"Coolant leaks into cylinders, engine needs replacing"
+190,11556333,core,0.742,31,7,"Backup camera image blank, distorted or flipped"
+191,11532116,nearest,0.697,3,3,"Transmission slips, shifts hard or fails"
+192,11671324,nearest,0.639,21,20,"High-voltage battery fault, vehicle will not start"
+193,11297916,core,0.63,3,3,"Transmission slips, shifts hard or fails"
+194,11559694,nearest,0.622,21,20,"High-voltage battery fault, vehicle will not start"
+195,11472945,core,0.878,10,13,Gear shifter cable bushing detaches
+196,11383130,nearest,0.693,7,6,Violent front-end shaking after bumps (death wobble)
+197,11681389,core,0.803,27,28,Fuel odor or fuel tank leak
+198,11640778,core,0.574,24,1,"Coolant leaks into cylinders, engine needs replacing"
+199,11596390,nearest,0.618,77,51,Rear differential bearing fails
+200,11512220,nearest,0.745,10,13,Gear shifter cable bushing detaches

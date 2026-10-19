@@ -1,0 +1,18 @@
+# Raw and intermediate data: rebuild with the step scripts
+COMPLAINTS_RECEIVED_*.txt
+CMPL.txt
+*.zip
+*.parquet
+cache/
+powerbi/
+readme.docx
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Office and Power BI temp files
+~$*
+*.pbix.bak

@@ -1,0 +1,30 @@
+In scope: 83,992 complaints, 111,633 rows
+
+Complaints:              83,992
+Months:                  81
+Hotline share:           33.9%
+Mentions a recall:       36.6%
+Recall parts delay:      9.3%
+No failure reported:     3.0%
+Code UNKNOWN only:       6.3%
+Median words, raw/clean: web 76/74, hotline 101/59
+Too short to cluster:    860
+Duplicate texts:         1,756
+Texts to embed (step 3): 81,376
+
+Top models:
+model
+F-150         13530
+ESCAPE        12962
+EXPLORER       9981
+FUSION         7958
+EDGE           6406
+FOCUS          5193
+F-250 SD       2903
+EXPEDITION     2621
+
+Example, hotline text before and after:
+BEFORE: The contact owns a 2006 Ford F-550 Stripped Chassis. The contact stated while driving at various speeds, the windshield wiper became inoperable. The contact stated there were no warning lights illuminated. The contact stated that the vehicle was taken to an independent mechanic to be diagnosed. The contact was informed that the windshield wiper motors were inadequate for the vehicle, causing the wiper motors to strain while in operation. The vehicle was not repaired. Neither the dealer nor the manufacturer was notified of the failure. The approximate failure mileage was 12,000.
+AFTER:  while driving the windshield wiper became inoperable. I took the vehicle to an independent mechanic to be diagnosed. I was told that the windshield wiper motors were inadequate for the vehicle, causing the wiper motors to strain while in operation.
+
+Saved complaints_clean.parquet (83,992 rows) and complaint_components.parquet (111,633 rows)

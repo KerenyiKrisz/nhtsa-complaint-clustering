@@ -1,0 +1,623 @@
+
+#1  n=3,190  [brake, brakes, pedal, brake pedal, fluid, brake fluid, abs, hydraulic, service brakes, booster]
+   - I received notification of recall (Service Brakes, Hydraulic). while driving 20 - 25 MPH, the brake pedal was depressed and went to the floorboard. The brakes failed to stop the vehicle immediately. The vehicle coasted t
+   - Catastrophic brake failure. Recal recall was completed on this truck, but the "repair" failed. Either the same defective parts were put back in or new but still defectively-designed parts were installed. Current symptoms
+   - while driving 30-40 MPH and depressing the brake pedal, the vehicle failed to respond immediately. the vehicle responded when the brake pedal was depressed down to the floorboard. as she continued driving, the message "B
+   - WHILE DRIVING 40-45 MPH, THE BRAKE PEDAL WAS DEPRESSED AND WENT TO THE FLOORBOARD. THE BRAKE FLUID WARNING LIGHT came on. I NOTICED THE BRAKE RESERVOIR WAS EMPTY. I RECEIVED NOTIFICATION OF recall (SERVICE BRAKES, SERVIC
+   - while driving THE VEHICLE EXPERIENCED A SOFT PEDAL FAILURE WHICH PROGRESSED TO TOTAL BRAKE FAILURE, WITHOUT WARNING. I HAD TAKEN THE VEHICLE TWICE TO AN INDEPENDENT MECHANIC WHO PERFORMED TWO BRAKE REPAIRS TO THE VEHICLE
+
+#3  n=2,814  [transmission, shifting, gear, clutch, miles, gears, cdf, warranty, dealership, shift]
+   - The transmission failed while driving. While accelerating to speed, there was a "clunk" and then the vehicle was unable to shift to another gear, stuck in 7th. The vehicle lurched continuously, decelerated suddenly, and 
+   - We have experienced the problems of bad shifting, error codes, sudden deceleration, lack of acceleration and the vehicle going into "limp mode" over the past three years. These events have been extremely dangerous as the
+   - At 45000 miles the transmission started slipping gears, we took into our local ford dealership for a warranty repair. They had it for a month and a half stated the computer just needed reprograming. Well now we sit at 72
+   - The vehicle has 57000 miles and i am reporting a commonly known issue with the transmission. Despite multiple service appointments with Ford explaining the issue, I was told there was nothing wrong. Now, 10 months post e
+   - Transmission failure again after already having vehicle serviced by Ford dealership in Cedar Rapids Iowa due to fuel issue from what they said was the issue. Still showing same coded and same issues with hard shifting an
+
+#6  n=2,662  [engine, coolant, engine warning, check engine, warning light, check, engine needed, light came, came, needed replaced]
+   - while driving the check engine warning light came on. I took the vehicle to an independent mechanic where it was diagnosed and determined that coolant was leaking into the cylinder and that the engine needed to be replac
+   - while operating the vehicle, the engine was idling rough, and the check engine warning light came on. I took the vehicle to the local dealer to be diagnosed and it ws determined that there was coolant inside the engine c
+   - while driving the check engine warning light came on. I took the vehicle to an independent mechanic and the dealer on separate occasions to be diagnosed. I was told that coolant was leaking in the engine block to cylinde
+   - while driving the check engine warning light came on. I took the vehicle to the dealer, who determined that coolant was leaking into the engine, requiring an engine replacement.
+   - while driving the vehicle began to shake with the check engine warning light came on. I took the vehicle to the dealer where it was diagnosed and determined that there was coolant intrusion into the engine, causing engin
+
+#5  n=2,510  [gear, transmission, downshifted, gears, shifting, shifts, shift, hard, unexpectedly, downshifted gear]
+   - Transmission erratic shifting. Downshift to first gear on highway.
+   - while driving the transmission downshifted unexpectedly. I took the vehicle to the dealer, where an unknown computer repair and an unknown transmission repair were performed; however, the failure persisted. while driving
+   - Transmission is shifting roughly and unexpectedly. Goes from high gear into low gear without warning for example going 45-50 in 10th gear and downshifts suddenly to 1st or 2nd gear causing vehicle to rapidly slow down th
+   - Transmission shifts from 5th or 6th down to 1st gear. This has happened twice in the past month. This is extremely dangerous especially at highway speeds, which i was. When this issue happened my truck went from 70 mph t
+   - Transmission randomly shifts out of gear while trying to accelerate creating an unsafe driving condition. This usually happens at Highway speeds.
+
+#2  n=2,463  [trim, pillar, windshield, pillar trim, structure, recall structure, detached, recall repair, structure recall, repair]
+   - while driving 70 MPH, the front driver's side windshield A-pillar trim detached. Upon inspection of the vehicle, I noticed that the front passenger's side windshield A-pillar trim had detached. I received notification of
+   - while driving 65-70 MPH, the passenger's side windshield exterior A-pillar trim was flapping against the vehicle. Upon arriving to the destination, I also noticed that the driver's side windshield exterior A-pillar trim 
+   - I received notification of recall (Structure). while driving the driver’s side A-pillar trim detached and flew off. I took the vehicle to an independent mechanic where they found the A-pillar trim needed to be replaced. 
+   - I received notification of recall (Structure) however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. while driving 65 MPH, the dr
+   - while driving the driver's side A-pillar trim detached. Additionally, the detached trim struck the front windshield, and the impact caused a crack in the front windshield. the failure occurred while driving on the highwa
+
+#9  n=2,236  [steering, power steering, power, steering assist, assist, turn, assist fault, fault, wheel, steering wheel]
+   - POWER STEERING ASSISTANCE FAILURE WHILE DRIVING. WARNING LIGHT APPEARED ON DASH AS WELL STATING “POWER ASSIST FAILURE” VEHICLE STEERING BECAME UNMANAGEABLE. WAS DRIVING AT 40 MPH. HAS HAPPENED TWICE.
+   - Vehicle displays “Steering Assist fault-Service required”. Failure of power steering while driving could result in loss of control of the vehicle. The earliest available appointment for the dealer to check the problem is
+   - WHILE DRIVING THE POWER STEERING WENT OUT SUDDENLY AND BECAME VERY HARD TO DRIVE HOME. SECONDS AFTER THE POWER STEERING WENT OUT A NOTICE OF POWER STEERING FAULT CAME UP AND SERVICE IS NEEDED. NO SIGN OF THIS GOING OUT O
+   - POWER STEERING ASSIST FAULT. NO POWER STEERING WHILE DRIVING. WE WERE LEAVING THE DOCTORS OFFICE AND WHEN WE STARTED THE CAR THE POWER STEERING WARNING CAME ON AND THE STEERING WHEEL WAS VERY HARD TO TURN.
+   - Electronic Power Steering. Power Steering Assist Fault. Lost complete control of Steering going around a corner at highway speeds.
+
+#4  n=2,120  [steering, power steering, power, assist, steering assist, recall, wheel, steering wheel, rack, fault]
+   - Power steering went out and very hard to steer, "power steering assist fault" came on. There was no prior warning from the dashboard or the steering. I thought there was a recall on it from what I read. Dealer informed m
+   - "Power Steering Assist Fault" message appeared, and the steering became stiff, indicating the power steering stopped working. This happened while coming down from a snowy mountain pass, which put myself, my passengers, a
+   - While driving, without warning, the power steering went out. My the vehicle became extremely difficult to steer. Luckily this happened before I made it to the end of my street. Had my wife been driving or I was traveling
+   - Sudden loss of power steering with dashboard message "Power Steering Assist Fault" Unable to turn steering wheel. Problem comes and goes. Took to Ford Dealership, $3,000 repair and Ford refuses to cover under a recall cl
+   - NHTSA Safety Complaint Draft Vehicle Information: Make: Ford Model: the vehicle Year: 2018 VIN: Incident Summary: While driving my the vehicle, the vehicle suddenly displayed a warning on the dashboard: “Steering Assist 
+
+#16  n=1,982  [transmission, clutch, needed, needed replaced, replaced, transmission needed, gear, tcm, failed, transmission failed]
+   - While driving transmission suffered a sudden complete failure, with no warning signs. Car had to be towed to local service station. Mechanic verified transmission was bad from original manufacturing, i.e., bad transmissi
+   - while driving from a complete stop, the vehicle was jerking, and the transmission was slipping and shifting hard. the failure mostly occurred while driving from 0-20 MPH. I took the vehicle to the dealer, where it was di
+   - while driving the vehicle briefly hesitated and failed to properly shift into gear. The vehicle returned to normal functionality, but the failure became a regular occurrence. I took the vehicle to the dealer, who diagnos
+   - while driving the transmission was shifting gears hard. I took the vehicle to the dealer several times and a diagnostic test was performed. However, the dealer was unable to determine the cause of the failure.
+   - while driving 30 MPH, the transmission experienced a catastrophic failure. The vehicle was towed to an independent mechanic where it was diagnosed and determined that the transmission needed to be replaced.
+
+#7  n=1,862  [wobble, death wobble, death, shaking, bump, violently, steering, end, shake, mph]
+   - I HAVE A the vehicle WITH 185K MILES. I WAS DRIVING ALONG LA 23 AT ABOUT 65 MPH IN LOUISIANA WHEN I CROSSED A BRIDGE, PASSING OVER WHERE THE HIGHWAY MEETS THE BRIDGE WHEN MY STEERING WHEEL BEGAN TO SHAKE VIOLENTLY AND LO
+   - TWICE THIS PAST WEEKEND, I EXPERIENCED WHAT THE DEALERSHIP CALLS "DEATH WOBBLE". THE STEERING WHEEL AND ENTIRE TRUCK STARTED SHAKING VIOLENTLY AFTER GOING OVER UNEVEN ASPHALT. THE FIRST OCCURENCE WAS ON THE HIGHWAY AROUN
+   - We have experienced the well-reported Death Wobble multiple times - beginning approx in 2020 - going approx 55 mph on a one-lane highway and hit a slight bump in the road. Could not control the vehicle, the steering whee
+   - JANUARY 2018 I BOUGHT A NEW the vehicle. AFTER DRIVING THE TRUCK AROUND 24000 MILES IT STARTED THIS HORRIBLE SHAKING AND ALMOST LOST CONTROL. RESEARCHED THE SYMPTOMS REFERRED TO AS DEATH WOBBLE. THE TRUCK HAS BEEN BACK T
+   - DRIVING DOWN HIGHWAY AND SOMETIMES WHEN HIT A BUMP TRUCK GETS UNCONTROLLABLE SHAKING 'DEATH WOBBLE ' ALMOST UNCONTROLLABLE. CAN'T STEER AND ALMOST DIDN'T RECOVER. HAVE HAD IT HAPPEN 7-8 TIMES NOW. CARRIED TO FORD SERVICE
+
+#13  n=1,599  [steering, power steering, recall steering, power, steering assist, steering vin, included, vin included, vin, assist]
+   - while driving the vehicle experienced loss of power steering assist. The message "Power Steering Failure" was displayed. I pulled to the side of the road, turned off and restarted the vehicle. The vehicle was not diagnos
+   - while driving 40-45 MPH, the vehicle lost power steering functionality with the serviced power steering and advanced track system warning lights came on. I pulled into the nearest parking lot to turn off and restart the 
+   - the power steering assist had failed without warning while driving. I then pulled over to the side of the road, turned off and then restarted the vehicle and the vehicle regained power steering functionality. the failure
+   - while operating the vehicle, the power steering assist failed, and the steering wheel became difficult to turn in either direction. Additionally, while operating the vehicle, the "Power Steering" and "Traction Control" w
+   - while operating the vehicle, the electronic power steering assist malfunctioned, and the steering wheel was very difficult to turn in either direction. The cause of the failure was not yet determined. The manufacturer an
+
+#26  n=1,526  [recall, parts, recall recall, dealership, safety, safety recall, remedy, nhtsa, recalls, notice]
+   - I have a recall for my vehicle that was issued February 2024. Ford dealership has not fixed it due to the company saying the parts are not available. It is poor business on ford corporate not to furnish the parts and dan
+   - I am filing a complaint because Recall recall was issued one year ago to this month and Ford has still not provided the necessary repair or part and keeps saying they don't have a remedy.
+   - I write this letter to you requesting your assistance regarding Ford Motor Co. recall recall / NHTSA Recall recall. I received an initial recall notice in May, 2025. For your convenience, I am including a copy for your q
+   - Brought vehicle in to address a safety recall (NHTSA Recall Number recall) on 3/11/23 to the Groove Ford Dealership in Colorado. At this point in time, the recall was showing from Ford as "Remedy Available". Traveled bac
+   - Recall recall has been active since January of 2024. Ford has failed to provide the necessary parts to repair my the vehicle. Through my communications to Ford, they have been made aware of the fact that multiple mechani
+
+#41  n=1,476  [recall, recall repair, available, repair, manufacturer, notification, notification recall, received, reasonable recall, exceeded reasonable]
+   - I received notification of recall (Back Over Prevention); however, after contacting the dealer, I was told that the part was not yet available for the recall repair. the manufacturer had exceeded a reasonable amount of t
+   - I received notification of recall (BACK OVER PREVENTION); however, the part to do the recall repair was unavailable. several dealers were contacted and informed I that the parts were no longer available. the manufacturer
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was not yet available. I took the vehicle to the dealer; however, The dealer confirmed that parts were not yet available
+   - I received notification of recall(Back Over Prevention); however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. An unknown dealer
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was not yet available. I took the vehicle to the dealer. The dealer confirmed that parts were not yet available. the man
+
+#10  n=1,351  [shifter, park, shift, cable, bushing, reverse, gear, gear shifter, shifter cable, cable bushing]
+   - the vehicle failed to release from park while reversing. The vehicle continued to roll. The vehicle was towed to the local dealer where they found the shifter cable bushing needed to be replaced. the failure was related 
+   - while the vehicle was in park and idling, I shifted the gear shifter into reverse however, the vehicle failed to respond. I shifted the vehicle into PARK when the vehicle started rolling backward. The parking brakes were
+   - while shifting the vehicle into park, the gear shift indicator indicated that the vehicle was in neutral. The vehicle rolled backwards. I also stated that the shifter would cease not allowing I to change gears. I was rel
+   - while in the reverse, the vehicle would move forward. I placed the gear shifter into drive and the vehicle stalled with the "transmission not in park" warning message on the instrument panel. I then placed the vehicle in
+   - while the vehicle was in park(P), the vehicle inadvertently moved. While shifting into gear, the shifter moved into another gear. I took the vehicle to the local dealer but I related the failure to recall (Power Train).
+
+#11  n=1,284  [lead frame, lead, frame, gear, transmission, downshift, molded, recall, speed, leadframe]
+   - My the vehicle is exhibiting symptoms consistent with the Ford transmission molded lead frame safety recall recall. while driving 55 mph late at night on a five-lane roadway, the vehicle suddenly and violently jerked, do
+   - I had the Sudden Transmission Downshift Recall, recall, performed on my truck in 2022. The output speed sensors are well known to go out on these trucks. Instead of fixing the problem correctly, the recall recall only pr
+   - Transmission (Lead Frame - AL329G276D) malfunctions causes vehicle to downshift to 2nd or 1st gear at highway speed (60 mph+) with no warning. The truck's wheels lock up, causing the vehicle to skid uncontrollably until 
+   - Despite NHTSA and Ford stating the "recall" has been fixed on my the vehicle, my truck still performs the exact symptoms of a Transmission molded leadframe failure. Not only my safety, but the safety of others was put as
+   - the vehicle, 5.0L, 6R80 transmission, 112,083 miles. Safety Recall recall was performed on 08/05/26 at an authorized Ford dealer. The wrench/powertrain warning recurred on 08/15/26. On 08/20/26, at 111,998 miles, the dea
+
+#82  n=1,263  [engine, coolant, new engine, new, miles, warranty, engine light, dealership, engines, cost]
+   - Our the vehicle started idling rough after spark plug change and after dealer tested it they told us it had engine coolant in #2 Cylinder and that driving it could lead to catastrophic engine failure. Only fix is complet
+   - AFTER HAVING THE VEHICLE FOR JUST OVER A YEAR, WITH 61K MILES, MY CHECK ENGINE LIGHT CAME ON AND I AM BEING TOLD THAT I NEED A NEW ENGINE. I WAS TOLD THAT THE ENGINE COOLANT IS LEAKING INTO THE ENGINE AND THAT THE ONLY R
+   - Driving my car this year in April 2023. My car overheated while driving. I pulled over and checked the coolant it was bone dry, thankfully I had more in my car which I refilled. I brought my car to a friend that was a me
+   - I took my car in for Ford Recalls to be performed and asked for the tech to check out why my Check engine light came on. Initially they could not find what caused it so they charged me close to $500 to do an in depth inv
+   - BOUGHT MY the vehicle USED FROM A DEALERSHIP AT END OF DECEMBER WITH 78K MILES. CHECK ENGINE LIGHT WAS ILLUMINATING SO I TOOK THE CAR TO FORD DEALERSHIP TO HAVE A DIAGNOSTIC DONE BECAUSE THE CAR WAS SHAKING AND KEPT MISF
+
+#39  n=1,174  [shaking, violently, bump, shake, road, mph, highway, hit, steering wheel, control]
+   - While travel on the highway at 70 mph upon hitting a bump my steering wheel and front end of the truck began to violently shake. I applied my brake and pulled to the side of the highway the shaking stopped. I inspected t
+   - MY the vehicle USUALLY AT SPEEDS ABOVE 50 MPH BEGINS TO HAVE VIOLENT SHAKING IN THE FRONT END SUSPENSION/STEERING SYSTEM WHEN YOU HIT A BUMP IN THE ROAD. PROBLEM CAN BE SO SEVERE THAT YOU LOOSE CONTROL OF THE TRUCK WHILE
+   - DRIVING ON INTERSTATE HWY AT APPROXIMATELY 70MPH WHEN I DROVE OVER A SMALL BUMP. IMMEDIATELY THE STEERING WHEEL AND ENTIRE FRONT END OF TRUCK STARTED SHAKING VIOLENTLY. I NEARLY RAN OFF THE ROAD SURFACE. I HAD TO SLOW DO
+   - When driving over speeds of 50mph or after driving over bumpy/ wavy roads, the truck starts shaking violently. It was bouncing so hard it almost shook the steering wheel out of my hands. I had to completely stop and pull
+   - GOING DOWN THE ROAD ABOUT 50 MPH HITTING MINOR BUMP IN THE ROAD. FRONT OF TRUCK STARTED SHAKING VIOLENTLY. I WAS UNABLE TO CONTROL THE TRUCK AND HAD DIFFICULTY SLOWING IT DOWN. I CROSSED THE CENTER LINE WITH IT BEING UNA
+
+#52  n=1,146  [coolant, engine, leaking, coolant leaking, cylinder, intrusion, block, known, coolant intrusion, cylinders]
+   - Coolant leaking into the cylinders. Repair is a new engine block. Nothing can be done to prevent it. Ford even has a technical service bulletin about the problem but have not recalled the vehicle for the issue. Car has o
+   - Engine developed a coolant leak that irreparably damaged the engine with 72,000 miles. The coolant leak is a known issue and Ford failed to inform consumers or offer a repair. The vehicle is inoperable and still has paym
+   - Coolant leak into my engine, causing engine failure. Common issue with this vehicle and ford wont do anything to fix the problem they created
+   - Coolant leaked into engine. Need new engine. Ford won’t pay for it even though they knew about this ongoing problem
+   - According to my mechanic, coolant has leaked into the cylinders of the engine. This is a common problem with this particular model the dealer Ford will not repair.
+
+#8  n=1,135  [cam, phasers, cam phasers, phaser, cam phaser, rattling, sound, rattling sound, timing, sound coming]
+   - upon starting the vehicle, the engine made an abnormal rattling sound. I took the vehicle to a local independent mechanic, where it was diagnosed and determined that the cam phasers had failed and needed to be replaced.
+   - while starting the vehicle, the engine made a rattling sound. I took the vehicle to the dealer, who determined that the cam phasers needed to be replaced. I related the failure to Customer Satisfaction Program: recall (C
+   - upon starting the vehicle, the engine made an abnormal rattling sound. I took the vehicle to a local independent mechanic, where they found the cam phasers had failed and needed to be replaced.
+   - when the vehicle was started, there was a loud rattling sound coming from the engine compartment. I took the vehicle to the dealer where it was diagnosed as a failure with the cam phasers. I was told that the cam phasers
+   - upon starting the vehicle, there was an abnormal rattling sound coming from the engine. I took the vehicle to a local dealer where the vehicle was diagnosed, and I was told that the cam phasers were faulty and needed to 
+
+#50  n=1,123  [power train, train, recall power, downshifted, unexpectedly downshifted, transmission, unexpectedly, transmission unexpectedly, power, failure]
+   - while driving 40 MPH, the transmission unexpectedly downshifted into first gear. The transmission failed to shift out of first gear immediately as needed. The vehicle then lost power. The transmission warning light came 
+   - while driving 70 MPH, the transmission unexpectedly downshifted to first gear, nearly causing the vehicle to stall. The power train warning came on. I was able to pull to the side of the road. he turned off and restarted
+   - while driving the transmission unexpectedly downshifted. The check engine and another unknown warning light came on. The tachometer and speedometer were inoperable. I pulled over, and the transmission remained stuck in f
+   - while driving the transmission unexpectedly downshifted to first gear. The power train warning light came on. The speedometer fell to 0 MPH. Additionally, while driving and depressing the accelerator pedal, the vehicle m
+   - while driving the transmission unexpectedly downshifted into first gear with the transmission warning light came on. Additionally, the transmission seized and failed to shift into the intended gear, and the speedometer w
+
+#15  n=1,089  [ecoboost, engine, coolant, ecoboost engine, coolant intrusion, intrusion, engines, cylinder, block, defect]
+   - The vehicle experienced engine failure due to coolant intrusion into the cylinders on a 1.5L EcoBoost engine. Symptoms included coolant loss, engine misfires, rough running, check engine light, and eventual engine failur
+   - The engine in my the vehicle EcoBoost experienced a known “coolant intrusion” defect in which engine coolant leaks into the engine cylinders. This defect is widely associated with the 1.5L and 2.0L EcoBoost engines and c
+   - I own a the vehicle with a 1.5L EcoBoost engine. The vehicle was purchased new. It experienced catastrophic engine failure in June 2023 with 86,286 miles on the original engine. With very little warning, the car began ru
+   - the vehicle Ex with the 2.0L Ecoboost engine. Check Engine Light came on (around 85,000 miles on the car - Jan 2023). Car is misfiring. Ford dealership diagnosed the issue as Coolant leaking into the engine block (which 
+   - the vehicle with 3.2 EcoBoost engine has coolant intrusion into the engine thru a defectively made engine block. Diagnosed by the Ford dealer in Hinesville,GA on August 11,2026. Car has 52,731 miles on it and has always 
+
+#55  n=1,086  [steering, power steering, steering wheel, power, driving mph, wheel, mph, mph steering, steering functionality, steering assist]
+   - WHILE DRIVING 65 MPH, THE STEERING WHEEL BECAME DIFFICULT TO TURN. THE POWER STEERING ASSIST WARNING LIGHT came on. I COASTED TO THE SIDE OF THE ROAD AND TURNED OFF AND RESTARTED THE VEHICLE HOWEVER, THE FAILURE RECURRED
+   - while his wife was driving at approximately 55 MPH, the vehicle lost power steering functionality and the steering wheel became firm. the power steering assist failure warning light came on. The vehicle was steered to th
+   - when the vehicle was purchased, I was told that the power steering was defective however, while driving 50-60 MPH, the “Power Steering Failure” warning light came on, and the steering wheel became difficult to maneuver b
+   - while driving at 35 MPH, the steering wheel seized, with the power steering assist warning light came on. the steering wheel became difficult to turn. I took the vehicle to an independent mechanic, where they found the e
+   - while driving 70 MPH, the vehicle experienced a loss of power steering with the power steering assist fault warning light came on. he was able to continue driving; however, the steering wheel was difficult to turn. I too
+
+#36  n=1,075  [accelerator pedal, accelerator, pedal, depressing accelerator, depressing, depressed, pedal depressed, accelerate, transmission, failed accelerate]
+   - while driving the accelerator pedal was depressed and the vehicle hesitated to respond. I was able to continue driving. the failure had been reoccurring while driving. I took the vehicle to an independent mechanic where 
+   - while depressing the accelerator pedal, the vehicle failed to respond as intended and hesitated to respond. Additionally, the vehicle failed to reverse as intended. Several unknown warning lights came on. I took the vehi
+   - the vehicle hesitated upon the depression of the accelerator pedal. I took the vehicle to a dealer where the vehicle was diagnosed with transmission failure.
+   - while driving the accelerator pedal was depressed but the vehicle hesitated and stalled on several occasions. I took the vehicle to the local dealer where the transmission was repaired. However, the failure reoccurred. N
+   - while driving at undisclosed speeds, the accelerator pedal was depressed, the RPM increased to high however, the vehicle failed to move. I took the vehicle to an independent mechanic, who stated the vehicle had signs of 
+
+#19  n=1,039  [cruise, cruise control, collision, control, pre collision, pre, adaptive, adaptive cruise, collision assist, assist]
+   - while driving 75 MPH, the messages "Pre-Collision Assist Not Available", "Front Camera Default -Service Required", "Lane Merge Default", "Check Parking Sensors", "Blind Spot System Fault", "Cross Traffic System failure",
+   - I have been having an intermittent warning error saying my front camera is faulty and my lane assist is no longer operational. The error seemed to come and go with bumps. Here recently it has become permanent around the 
+   - I was driving on the highway when the car gave me an error saying that the front camera is faulty and the collision warning system was giving an error. This stopped my cruise control and lane departure settings. I had ju
+   - while driving the Forward Collision Avoidance system unintendedly activated. During the failure there were no other vehicles or large objects nearby. The "Collision Alert" message was displayed. I took the vehicle to the
+   - while driving at undisclosed speeds, the Forward Collision Avoidance system engaged erroneously. Additionally, while attempting to switch lanes at highway speeds, the Lane Departure Assist erroneously engaged and pulled 
+
+#64  n=1,034  [stalled, mph stalled, fuel, towed, driving mph, restart, mph, fuel pump, diagnosed, driving]
+   - while driving 25 MPH, the vehicle stalled without warning. The vehicle was restarted; however, the failure reoccurred. The vehicle was towed to the local dealer, where it was diagnosed, but the cause of the failure could
+   - while driving the vehicle stalled without warning. I took the vehicle to the local dealer but was not diagnosed or repaired. the failure was related to recall (Fuel System, Gasoline).
+   - while driving the vehicle stalled. The vehicle was towed to a dealer. The vehicle was diagnosed, and it was determined that the engine needed to be replaced.
+   - while driving the vehicle stalled. I took the vehicle to an independent mechanic where they found the engine block had failed and needed to be replaced. An undisclosed dealer was notified of the failure and I was advised
+   - while driving the vehicle stalled. The vehicle failed to restart. The check engine warning light came on. The vehicle was towed to my family member's residence. The vehicle was not diagnosed nor repaired by an independen
+
+#24  n=1,018  [coolant, engine, leaking, coolant leaking, cylinder, coolant leak, leak, intrusion, coolant intrusion, cylinders]
+   - Engine coolant leaks into the cylinder block due to a manufacturing defect. Car needs a new engine.
+   - Issue of coolant leaking into the engine which will need engine replacement.
+   - The coolant has leaked into the engine causing engine defect
+   - Coolant leak into engine, causing substantial issues.
+   - Coolant leaking into the engine.
+
+#14  n=1,010  [door, driver door, welds, driver, window, popping, hinge, opening, arm, spot welds]
+   - while opening the front driver's side door, the door made an abnormal popping sound and failed to close securely. I inspected the door and noticed that the spot welds had fractured on the side of the door. I took the veh
+   - Driver Side Door when opened makes loud Popping noise and doesn't want to shut properly and doesn't latch completely. It appears that the spot welds in the check arm for the front doors are failing.
+   - the driver's side door hinge welds were fractured. While opening and closing the door, there was an abnormal popping sound heard. Additionally, the window failed to roll down completely. I took the vehicle to the local d
+   - while opening the driver's side door, there was an abnormal popping sound heard. Additionally, the driver's side window failed to raise or lower as designed. that the driver's side door hinge was missing several spot wel
+   - while opening and closing the front driver's side door a loud popping noise was present and the door would swing open. I took the vehicle to the local dealer who found the door welding had failed and the door needed to b
+
+#21  n=987  [battery, voltage, start, high voltage, charging, charge, voltage battery, hybrid, hvbjb, high]
+   - While driving, the dashboard very quickly flashed the words "Charging System Service Soon" so fast I almost couldn't read it. Normally messages remain on the screen until I acknowledge them, but this was not the case. Th
+   - Battery failed exactly as described in Ford recall recall NHTSA# recall. On 11/1/24 drove vehicle 125 miles home on a return trip and parked car in garage. Morning of 11/2/24, vehicle would not start, battery is dead. Tr
+   - Only have about 13600 miles on my the vehicle and the battery drains down about .5 v overnight. Could not start in in my garage after 4 days of sitting, charged it up and took it to the Ford dealer where they did a load 
+   - This vehicle is just two years old and has 38,000 miles. Meticulously maintained from day one. It is equipped with the start/stop feature. On July 8, 2023 when stopping for traffic at a U-turn lane on a heavy traveled hi
+   - My the vehicle Hybrid experienced a complete electrical system failure at approximately 15,933 miles, resulting in a no-start condition. The failure involved the vehicle’s electrical distribution system. An authorized Fo
+
+#17  n=943  [prevention, recall prevention, camera, recall repair, prevention recall, image, notification recall, notification, received notification, view camera]
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was not yet available. the rear-view camera image was blank or inverted while the vehicle was in reverse(R). the manufac
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was not yet available. while in reverse, the rearview camera image failed to display as intended on the screen. the manu
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was not yet available. the rearview camera displayed a distorted or blank image while in reverse(R). The message "Rear C
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was unavailable. while in reverse(R), the rearview camera would display a blank or distorted image. the manufacturer had
+   - I received notification of recall (Back Over Prevention); however, the part to do the recall repair was unavailable. the manufacturer had exceeded a reasonable amount of time for the recall repair. while in reverse(R), t
+
+#37  n=938  [coolant, engine, coolant intrusion, intrusion, satisfaction program, customer satisfaction, satisfaction, program recall, failure customer, program]
+   - while driving the temperature indicated that the vehicle was overheating, and I pulled over to the shoulder of the roadway. After a visual inspection of the engine compartment, I observed that the coolant reservoir was a
+   - while driving the check engine warning light came on. I took the vehicle to the dealer, who determined that the coolant intrusion had damaged the engine. I was told that the engine needed to be replaced. After investigat
+   - while driving the check engine warning light came on. I took the vehicle to the dealer, who determined that there was coolant intrusion into several cylinders, resulting in engine damage. I was told that the engine neede
+   - while driving the vehicle lost automotive power. The check coolant and engine warning lights came on. The vehicle was inspected by a local independent mechanic who diagnosed a misfire coming from the engine. The vehicle 
+   - while driving the temperature gauge indicated that the engine was overheating. The check engine warning light came on. I took the vehicle to the dealer, who determined that engine was damaged due to coolant intrusion. I 
+
+#38  n=931  [engine cooling, recall engine, cooling, engine engine, cooling recall, engine, recall repair, oil, notification recall, received notification]
+   - I received notification of recall (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. while drivi
+   - I received notification of recall (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. while drivi
+   - I received notification of recall (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. while driving 35 MPH, the vehicle started losing power. the low oil pressure warning light c
+   - I received notification of recall (Engine and Engine Cooling); however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. while drivi
+   - I received notification of recall (Engine and Engine Cooling) however the part to do the recall repair was not yet available. while his wife was driving approximately 35 MPH, the engine made an abnormal sound, and the lo
+
+#12  n=892  [seat, seat belt, belt, seatbelt, driver seat, buckle, belts, seat belts, passenger seat, passenger]
+   - while the vehicle was parked and fastening the seat belt, the seat belt failed to retract as needed. The failure occurred with front driver’s and passenger’s sides seat belts. I took the vehicle to a dealer where they fo
+   - the front passenger’s side seat belt was unable to retract, and a passenger seated in the seat was not safely secured. I was told that the seat assembly was faulty and needed to be replaced. I took the vehicle to the loc
+   - the front driver's side seat belt had locked and had failed to extend as needed. the seat belt was inoperable. I took the vehicle to the dealer, where it was diagnosed and determined that the seat belt assembly needed to
+   - the seat belt on the passenger’s side failed to retract as needed. I took the vehicle to the dealer where the seat belt components were replaced. I associated the failure with recall (Seat Belts).
+   - the front driver’s side and front passenger’s side seat belts failed to retract and failed to properly secure the occupants seated in the vehicle. I took the vehicle to the local dealer who replaced the seat belts, and
+
+#60  n=890  [gas, gas pedal, accelerate, pedal, power, acceleration, traffic, accelerator, stop, turn]
+   - On , I was driving home on in Rocky Mount, Virginia. The truck lost power; the Drive Shift knob light was flashing, warnings started flashing, hill start assist was not available, service vehicle soon, pre-collision assi
+   - 1st incident (Oct. 8, 2024)- while traveling up a slight incline vehicle began to sputter and then stopped accelerating. No codes where thrown, no warning of any kind. The vehicle was still running and had all power, but
+   - The vehicle stopped while I was driving and wouldn’t accelerate when trying to push the gas pedal. The warning wrench light then appeared and said power train. Once I pulled over and cut the car off and back on it drove 
+   - This is the 3rd of 4th time this has happened since owning this truck. While driving at freeway speeds I would lose acceleration. I would step on the gas pedal and nothing would happen. I would have to coast to the side 
+   - While attempting to accelerate and change lanes on the freeway, the vehicle unexpectedly slipped out of gear and appeared to shift into neutral. During this time, the gas pedal became completely unresponsive, leaving me 
+
+#31  n=863  [camera, backup, backup camera, view, screen, rear, recall, rear camera, cameras, rear view]
+   - the rear backup camera does not work at all.i am elderly and cannot turn my head over my shoulders.the screen is constantly blue when i need to reverse and the message that the camera is malfunctioning is on the blue scr
+   - Rear view camera failure. When the vehicle is put in reverse, the rear view camera does not come on creating a safety hazard while backing up since you don't always have a line of sight due to other vehicles parked next 
+   - This vehicle has had a recall on the backup camera for nearly a year & no information from Ford on a solution or repair. The camera issue is very frustrating & intermittent failing during use.
+   - For over a year our the vehicle REAR BACKUP CAMERA malfunctions frequently. Either the image is reversed, streaky, or completely blank and makes backing up difficult and dangerous. A year ago the local Ford dealership wa
+   - My vehicle had a recall: Ford recall recall involves 2015-the vehicle due to a potential issue with the rearview camera. The wiring for the rearview camera may be loose or damaged, causing the camera to display a blank o
+
+#42  n=861  [camera, backup, backup camera, screen, backing, black, works, work, working, reverse]
+   - The rear backup camera has malfunctioned and it is not working.
+   - Back up camera does not work at times screen is black when vehicle is in reverse, other times camera display is working. This problem started around June 0f 2025
+   - BACKUP CAMERA GOES IN/OUT. IT WILL DISPLAY A DISTORTED SCREEN AND/OR GO BLACK THEN DISPLAY MALFUNCTION HAS OCCURRED AND TO CONTACT DEALER. THIS HAS BEEN HAPPENING SINCE JULY 2020 AND GETTING WORSE. THIS IS A MAJOR SAFETY
+   - The rear backup camera continually fails due to what appears to be a faulty electrical connection. It stops working while in the middle of a backup almost causing a collision. sometimes it does not work at all.
+   - back up camera works intermittently. black screen, camera not available, works for short period of time then goes blank, and upside down camera have all been exhibited .
+
+#33  n=838  [door, open, latch, passenger door, lock, driver door, doors, passenger, door latch, driver]
+   - after opening the rear driver’s side door, the locking mechanism failed, and the door failed to remain closed. I took the vehicle to the local dealer who found the interior door latch mechanism had failed and needed to b
+   - the front passenger's side door and the rear driver's side door had failed to latch while closed and opened unexpectedly while driving. I took the vehicle to an independent mechanic, where the door latches were replaced;
+   - the passenger’s and driver’s side rear door locking mechanisms were faulty and the doors could no longer be opened. The cause of the failure was not yet determined. The manufacturer was not yet notified of the failure.
+   - the front driver side door latch detached from the vehicle making it difficult to properly close the door. I called the local dealer and made them aware of the failure. I took the vehicle to an independent mechanic, wher
+   - the passenger’s side front and rear door latches malfunctioned making it difficult to securely close the doors. The cause of the failure was not determined. The local dealer and manufacturer were notified of the failure,
+
+#18  n=834  [flames, smoke, department, caught, hood, extinguished, report, police, coming, seat]
+   - while the vehicle was idling, a fire originated near the dashboard area without warning. The occupants inside the vehicle first noticed an abnormal smoke odor inside the vehicle. Shortly afterwards, I and passenger’s eye
+   - while operating the vehicle, smoke and heat were suddenly present inside the cabin of the vehicle. After exiting the vehicle the fire department was called to the scene and extinguished the flames. During the incident, t
+   - while pulling into the driveway, the check engine warning light came on and there was smoke coming from under the hood. I parked the vehicle and noticed that the smoke had increased. as he exited the vehicle, the smoke b
+   - while the vehicle was parked in the driveway flames were suddenly present coming from the engine compartment. The fire department was called to the scene and extinguished the flames. During the incident, the vehicle was 
+   - I owns the the vehicle. while driving 35 MPH, he started to smell smoke inside the vehicle. While stopped at a traffic light, I noticed smoke coming from under the hood, and then flames started rising from underneath the
+
+#22  n=811  [airbag, bag, air bag, air, light, airbag light, airbags, seat, bag warning, bags]
+   - the air bag warning light came on. I took the vehicle to the dealer who confirmed that the vehicle was not under recall for the failure. The vehicle had not been repaired.
+   - the air bag warning light came on. I learned of recall (Air Bags) and related the failure to the recall. I took the vehicle to the dealer where they found the front passenger’s side air bag sensor had failed. The dealer 
+   - AIRBAG WARNING LIGHT came on ON VEHICLE. CHECKED ALL WIRES UNDER THE SEAT AND NONE ARE LOOSE OR DAMAGED. SEARCHED TOPIC ONLINE AND APPEARS TO BE A KNOWN ISSUE. FORD ISSUED A SERVICE BULLETIN FOR THE REPAIRS BUT WILL NOT 
+   - AIR BAG WARNING LIGHT HAS RECENTLY came on. INDEPENDENT MECHANIC SCAN TOOL READING ON 3/15/24 SHOWS THE FRONT PASSENGER AIRBAG TO HAVE COMPLETELY FAILED AND BECOME INOPERABLE. VEHICLE HAS NOT BEEN INVOLVED IN ANY IMPACTS
+   - while driving the air bag warning light came on. I took the vehicle to the dealer and the dealer performed an unknown repair; however, the failure recurred.
+
+#28  n=804  [smoke, white, white smoke, smoke coming, exhaust, coming exhaust, coolant, engine, coming, pipe]
+   - while driving 40 MPH, there was white smoke coming from the exhaust pipe. he was able to safely drive the vehicle to his office of employment. the vehicle failed to restart. an independent mechanic arrived at the locatio
+   - while driving the vehicle was driving roughly, with white exhaust smoke coming from the vehicle. the check engine warning light came on. I took the vehicle to the local dealer, who found there was coolant intrusion in th
+   - upon starting the vehicle, there was heavy white smoke coming from the exhaust pipe. I took the vehicle to a dealer where a diagnostic test showed that there was coolant intrusion into the engine. I was told that the eng
+   - while driving there was an engine misfire. Additionally, the vehicle stalled and lost power. after several attempts, the vehicle restarted. The vehicle was driven to the residence. an independent mechanic inspected the v
+   - while driving there was misfire coming from the engine with the check engine warning light came on. excessive amounts of white smoke was coming from the exhaust pipes. Additionally, the vehicle was consuming an excessive
+
+#20  n=802  [deploy, bags, deployed, air, air bags, airbags, police, police report, injuries, sustained]
+   - WHILE DRIVING AT ABOUT 50 MPH ONTO A RAMP, ANOTHER VEHICLE SWERVED INTO HER LANE AND HIT THE FRONT DRIVER SIDE OF THE VEHICLE. SHE LOST CONTROL OF THE VEHICLE AND HIT THE RAMP. THE DRIVER BECAME UNCONSCIOUS AND THE THREE
+   - while my wife was driving at an undisclosed speed, an oncoming vehicle crashed into the front of the vehicle. none of the air bags deployed. The vehicle was towed to a tow yard and then towed to a collision center. his w
+   - while his girlfriend was driving at 45 MPH with him in the front passenger seat, another vehicle suddenly crossed in front of the vehicle, causing the vehicle to crash into the rear end of the other vehicle. The front dr
+   - WHILE MAKING A TURN INTO A PARKING LOT, ANOTHER VEHICLE THAT WAS SPEEDING AT 45 MPH, CRASHED INTO THE PASSENGER SIDE. I MENTIONED THE IMPACT WAS FORCEFUL AND THAT THE OTHER VEHICLE HAD ALL ITS AIR BAGS DEPLOY. NONE OF TH
+   - while driving at 20 MPH, the driver of the vehicle ahead abruptly braked; as a result, I collided with the rear of the vehicle ahead. The air bags did deploy; however, the driver's side air bag failed to fully deploy, on
+
+#49  n=790  [brake pedal, brake, pedal, depressed, pedal depressed, floorboard, brake booster, booster, stop, mph brake]
+   - while driving the brake pedal was depressed to the floor before the vehicle came to a complete stop. The failure occurred several times while I continued driving to his residence. I took the vehicle to a local dealer who
+   - while driving at undisclosed speeds, the brake pedal was depressed and went to the floorboard. I pumped the brake pedal and coasted to the residence. The vehicle was towed to the local dealer, but it was not diagnosed or
+   - while driving I depressed the brake pedal and the vehicle would not stop. I depressed the brake pedal almost to the floor for the vehicle to slow down. I took the vehicle to an independent mechanic who inspected the vehi
+   - while driving 25 MPH and attempting to stop the vehicle, the brake pedal was depressed; however, the vehicle failed to respond, and the brake pedal traveled to the floorboard. I took the vehicle to an independent mechani
+   - while driving the brake pedal was depressed; however, the vehicle failed to stop as intended. both feet were used to depress the brake pedal before the vehicle stopped. I took the vehicle to an independent mechanic where
+
+#27  n=758  [fuel, tank, smell, odor, gas, fuel tank, cabin, gasoline, strong, exhaust]
+   - while driving I detected an abnormal fuel odor. I took the vehicle to an independent mechanic, who found there was a vapor leak coming from the top of the fuel tank.
+   - the odor of fuel was present inside and outside of the vehicle. Upon inspection, leaking fuel was discovered coming from the fuel tank on the rear driver’s side of the vehicle. The cause of the failure was not yet determ
+   - there was an abnormal fuel odor detected around the vehicle. I called the local dealer but I related the failure to recall (Fuel System, Gasoline). I was concerned the vehicle might catch on fire.
+   - while driving I became aware of an abnormal fuel odor inside the vehicle. The vehicle was inspected by a relative who became aware that one of the fuel hoses was fractured.
+   - there was an abnormally strong gasoline odor coming from the vehicle. I examined under the hood of the vehicle and noticed that the fuel line was fractured, and gasoline was leaking onto the engine. The vehicle was not d
+
+#23  n=741  [sunroof, glass, shade, panoramic, roof, exploded, panoramic sunroof, sun, sunshade, moonroof]
+   - We were driving on the highway with no other cars around when the sunroof exploded. My wife was driving and she panicked, slowing down on the highway trying to get off the road. The shade was closed, but if it wasn’t the
+   - Sunroof randomly shattered while driving
+   - The front panel of my the vehicle ST panoramic sunroof exploded on May 6, 2022. Fortunately, I had closed the sun shade two days prior while on vacation in Florida. It was not due to being hit by debris as traffic was li
+   - The Sunroof spontaneously shattered while I was driving home. Upon further inspection, it looked like the glass was becoming separated from the frame as well.
+   - The sunroof shattered when a door was opened. Vehicle was not in motion. Tiny shards of glass fell all over front seats and console of vehicle and continued to fall while driving home.
+
+#79  n=738  [fuel, recall fuel, stalled, fuel pump, fuel gasoline, gasoline, pump, restart, vin, vin included]
+   - while driving 40 MPH, the vehicle stalled and failed to restart. The vehicle was towed back to the residence. Upon inspection, I discovered a fuel system failure. The exact cause of the failure was not yet determined, an
+   - while driving the vehicle failed to properly accelerate and lost automotive power. The check engine warning light had flashed on and off and the vehicle stalled. I took the vehicle to the local dealer who found the fuel 
+   - while driving the vehicle stalled with the check engine warning light came on. Additionally, the vehicle occasionally was unable to restart right after refueling. I took the vehicle to an independent mechanic who related
+   - while driving the vehicle stalled. The check engine warning light came on. I was able to restart the vehicle. However, the failure reoccurred increasingly while at a complete stop. the vehicle would jerk, would shudder, 
+   - while driving 25 MPH, the vehicle stalled and failed to restart. The vehicle was towed to the local dealer who found the fuel pump was faulty and needed to be replaced. The fuel pump was replaced, and I was told that the
+
+#30  n=713  [window, glass, shattered, rear window, rear, defroster, window shattered, defrost, exploded, sliding]
+   - THE REAR WINDOW SHATTERED WHILE HAVING THE REAR WINDOW DEFROST ON AND DRIVING ON A HIGHWAY. NOTHING HIT THE WINDOW, NO BIG BUMPS OR IMPACTS.
+   - Driver side rear window shattered with no impact. Vehicle had been remote started with rear defroster on. Approximately 30 seconds after driving, I heard a loud pop and stopped vehicle. After inspecting, the driver side 
+   - While driving on the freeway with defroster on in rainy weather conditions, the rear window spontaneously shattered and made a very loud popping sound as though it exploded. There was no impact that caused the spontaneou
+   - Rear windshield spontaneously shattered. Reduced vision of rear window. Dealer will not inspect vehicle without paying a fee. Rear window defroster was on and there was cricking sound.
+   - REAR SLIDING WINDOW SHATTERED AFTER REMOTE STARTING VEHICLE WHICH TURNS ON REAR DEFROSTER. GLASS EXPLODED INTO CAB COVERING OCCUPANTS IN GLASS.
+
+#25  n=704  [lug, nuts, lug nuts, swollen, tire, nuts swollen, remove, flat, nut, lug nut]
+   - Lug nuts are swollen. Dealer told me they needed to be replaced at a cost of $160.00. Not covered under warranty. Correctly made lug nuts do not need to be replaced. ALL tire changed and rotations have been done by FORD.
+   - Went to have car serviced and was told lug nuts were swollen and it was a Ford defect, but had to pay over $120 to replace lug nuts in order to get my tires rotated.
+   - When obtaining a tire rotation at the Ford Dealership, I was told that I had swollen lug nuts and for safety reasons should be replaced. I never had a vehicle with this problem. To replace all the lug nuts, it was a cost
+   - while having the vehicle serviced, the lug nuts were unable to be removed from the wheels due to swelling. The vehicle was diagnosed by a local tire dealer with failure of the lug nuts.
+   - the factory lug nuts were swollen and difficult to remove the tires when needed. I had not spoken with a dealer nor a certified mechanic. I intended on replacing the lug nuts replaced with a better-recommended type.
+
+#83  n=681  [police report, police, crashed, report filed, report, filed, sustained, injuries, pedal, brake pedal]
+   - while driving into a parking space, the vehicle suddenly accelerated when the brake pedal was depressed. I indicated that the vehicle erroneously accelerated and crashed into a nearby building. During the incident, the f
+   - while approaching a stop, the brake pedal was depressed, but the vehicle accelerated to unknown speeds. The driver continuously depressed the brake pedal, but it failed to respond. The driver crashed into a mailbox, bric
+   - while reversing at an undisclosed speed, the vehicle experienced unintended high-speed acceleration and struck a parked vehicle. The brake pedal was depressed but failed to stop the vehicle immediately. The vehicle then 
+   - while stopped with the brake pedal depressed in a parking lot, the vehicle accelerated inadvertently without warning. The vehicle crashed into the driver's side center of another vehicle totaling it. The approximate four
+   - while reserving the vehicle and shifting gears to drive when the vehicle accelerated independently forward. she crashed into a parked vehicle. Air bags did not deploy. I began to pump the brake pedal to stop the vehicle.
+
+#71  n=662  [power train, train, recall power, train recall, recall repair, notification recall, notification, repair, received notification, received]
+   - I received notification of recall (Power Train) however, the part to do the recall repair was not yet available. An unknown dealer was contacted. the manufacturer had exceeded a reasonable amount of time for the recall r
+   - I received notification of recall (Power Train); however, the part to do the recall repair was unavailable. the manufacturer had exceeded a reasonable amount of time for the recall repair. The dealer stated that parts we
+   - I received notification of recall (POWER TRAIN); however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. there was a scraping soun
+   - I received notification of recall (Power Train); however, the part to do the recall repair was not yet available. The dealer confirmed that parts were not yet available. the manufacturer had exceeded a reasonable amount 
+   - I received notification of recall (Power Train), however, the part to do the recall repair was not yet available. The dealer confirmed that the remedy parts were not yet available and were on backordered. the manufacture
+
+#29  n=657  [headlights, headlight, beam, led, night, lights, low beam, daytime, lighting, headlamp]
+   - the headlight assembly had begun to delaminate which reduced the effectiveness of the headlights illumination. I took the vehicle to the dealer where they confirmed that the failure with the headlight assembly and order 
+   - while driving the headlights failed to operate as needed. I took the vehicle to an independent mechanic, where it was diagnosed and determined that the lighting control module needed to be replaced. the vehicle had previ
+   - while driving at night the passenger’s side headlight became inoperable. the failure became more frequent and the driver's side headlight intermittently failed to operate as needed. the failure persisted after switching 
+   - while driving with the high-beam headlights engaged, there was a dark spot on the driver's side headlight, reducing the visibility of the roadway. the failure was distracting. I took the vehicle to the dealer, and I was 
+   - while the vehicle was parked, I noticed that the headlights were inoperable. I took the vehicle to an independent mechanic where they found the lighting control module had failed and needed to be replaced.
+
+#34  n=652  [purge, purge valve, valve, canister, canister purge, fuel, refueling, tank, evap, check engine]
+   - after refueling the vehicle, the vehicle would not immediately start-up with the check engine warning light came on. the vehicle was stalling while driving. I took the vehicle to a dealer and the vehicle was serviced und
+   - while driving the check engine warning light came on after refueling. I took the vehicle to the local dealer to be diagnosed. I was told that the canister purge valve needed to be replaced. the failure was related to rec
+   - after refueling and starting the vehicle, the vehicle was shifted into drive and drove several feet before losing power. There were several unknown warning lights came on. The vehicle was restarted and then driven to an 
+   - AT APPROXIMATELY 125000 MILES, THE VEHICLE DISPLAYED THE CHECK ENGINE LIGHT AND WAS EXPERIENCING DIFFICULTY RESTARTING AFTER REFUELING. LOCAL AUTO PARTS STORE CODE READER DISPLAYED ETC P1450. ONLINE RESEARCH POINTED TO A
+   - while operating the vehicle, the check engine warning light came on, and the vehicle began to lose power and would not accelerate. I took the vehicle to an independent mechanic who found the canister purge valve had fail
+
+#58  n=641  [camera, image, rearview, rearview camera, prevention camera, reversing, displayed, screen, prevention, reverse]
+   - on several occasions while the vehicle was shifted into reverse(R), the Back Over Prevention camera failed to operate. the screen display either a distorted or a blank image.
+   - while reversing, the rear-view camera failed to display an image, compromising the backup prevention system. The vehicle returned to normal functionality, but the failure became a regular occurrence. I took the vehicle t
+   - while reversing, the back-over prevention camera image was displayed on the wrong side of the screen, creating a visibility hazard. I took the vehicle to an independent mechanic who diagnosed and determined that the came
+   - while reversing, the rear-view camera image was displayed upside down, or there was a solid black screen displayed without an image. the failure caused a visibility hazard for the driver. The cause of the failure was not
+   - while attempting to reverse, the back-over prevention camera failed to operate as designed and displayed a blank image on the screen. I took the vehicle to an independent mechanic but was not diagnosed.
+
+#74  n=630  [recall fuel, fuel gasoline, gasoline, gasoline recall, fuel, recall repair, notification recall, notification, received notification, repair]
+   - I received notification of recall (FUEL SYSTEM, GASOLINE); however, the part to do the recall repair was unavailable. The local dealer and manufacturer were not contacted. the manufacturer had exceeded a reasonable amoun
+   - I received notification of recall (FUEL SYSTEM, GASOLINE) However, the part to do the recall repair was unavailable. the manufacturer had exceeded a reasonable amount of time for the recall repair.
+   - I received notification of recall ( FUEL SYSTEM, GASOLINE) however, the part to do the recall repair was unavailable. the manufacturer had exceeded a reasonable amount of time for the recall repair.
+   - I received notification of recall (Fuel System, Gasoline); however, the part to do the recall repair was not yet available. Several local dealers were contacted. the manufacturer had exceeded a reasonable amount of time 
+   - I received notification of recall (FUEL SYSTEM, GASOLINE); however, the part to do the recall repair was unavailable. the manufacturer had exceeded a reasonable timeframe for the recall repair.
+
+#43  n=622  [throttle, throttle body, body, limp, limp mode, mode, wrench, code, power, happened]
+   - THROTTLE BODY FAILED 12/4/17 LEADING TO ENGINE POWER LOSS AT HIGHWAY SPEED. ENGINE LIGHT AND WRENCH WARNING DISPLAY APPEARED. COULD NOT ACCELERATE. WAS ABLE TO COAST TO SHOULDER SAFELY. RESTARTING THE VEHICLE, IT IMMEDIA
+   - 1ST OCCURRENCE WAS WHEN I WAS DRIVING ON THE INTERSTATE AND THE VEHICLE SUDDENLY STOPPED ACCELERATING AND WENT INTO LIMP MODE (A WRENCH WAS DISPLAYED ON THE DASHBOARD). I WAS NOT ABLE TO ACCELERATE AT ALL AND HAD TO PULL
+   - while driving 65 MPH, the vehicle lost power and shifted into Limp Mode. I pulled off the highway safely and turned the vehicle off. the check engine warning light came on. she was able to turn the vehicle back on and th
+   - While driving at posted speeds on open highway and in congested work zones, this the vehicle experienced an Electronic Throttle Body failure 5 times between Rochester Hills, MI and Granger, IN on 9/13/2022. It happened a
+   - at any speed the the vehicle would go into "limp Mode"....NO THROTTLE...Terrian Management Error would appear and the wrench sign,,,,,dash lights and terrain knob light would go off....at highway speeds, with no warning,
+
+#51  n=585  [shuddering, shudder, clutch, shuddered, torque converter, torque, shudders, converter, transmission, accelerating]
+   - while driving the vehicle started shuddering while accelerating. I took the vehicle to a local dealer where they found transmission failure.
+   - while driving from a complete stop, the vehicle started shuddering. the failure occurred while driving. I took the vehicle to the dealer, where they found there was an internal transmission failure caused by the torque c
+   - while driving the vehicle was shuddering. I took the vehicle to an independent mechanic, who found the transmission needed to be replaced.
+   - while driving the vehicle shuddered while the transmission was in second gear. I took the vehicle to a transmission shop, where they found transmission clutch shudder. The mechanic replaced the transmission clutch assemb
+   - while driving and attempting to accelerate, the vehicle briefly shuddered. The vehicle returned to normal functionality, but the failure became a regular occurrence. I took the vehicle to the dealer, who was unable to di
+
+#53  n=564  [restart, auto, start, shut, stop, start stop, restart engine, auto start, shift restart, park]
+   - DRIVING ON A ROAD AND THE TRUCK ABRUPTLY SHUT OFF, DISPLAYED AN ERROR MESSAGE ON THE SCREEN SHOWING "AUTO STOP/START, PUT THE VEHICLE IN PARK AND RESTART ENGINE" ( I DONT USE THE AUTO STOP/START FEATURE) THIS ISSUE SHOUL
+   - On Monday, January 9, 2023 the vehicle shut off while driving in traffic, and was difficult to restart. It seemed like the battery was dead, but it wasn’t. This incident happened again within about a 15 minute time Perio
+   - DRIVING ON A ROAD AND THE TRUCK ABRUPTLY SHUT OFF, DISPLAYED AN ERROR MESSAGE ON THE SCREEN SHOWING "AUTO STOP/START, PUT THE VEHICLE IN PARK AND RESTART ENGINE" ( I NEVER USE THE AUTO STOP/START FEATURE) UPON RESEARCHIN
+   - the vehicle CONTINUES TO SHUT OFF ENGINE WHILE DRIVING ON THE HIGHWAY OR FWY. THIS IS A SAFETY HAZARD FOR ME AND MY FAMILY. THE TRUCK SUDDENLY LOOSES POWER AND TURNS OFF. I HAVE TO WAIT A MINUTE THEN START ENGINE AGAIN
+   - WHILE DRIVING, THE VEHICLE SHUT OFF (THREE TIMES NOW). THIS OCCURRED ONCE WHILE TURNING ONTO ANOTHER ROAD AND THE VEHICLE STALLED IN A LANE OF TRAFFIC. WHEN THIS HAPPENS, THE VEHICLE MAKES YOU SHIFT TO PARK AND RESTART T
+
+#66  n=556  [rack, rack pinion, pinion, steering, wheel, steering wheel, steering rack, turning, noise, grinding]
+   - while turning the steering wheel to the right, the front end of the vehicle made an abnormal popping sound. the failure occurred while the vehicle was idling and while driving. I took the vehicle to the dealer, where the
+   - while driving there was an abnormal sound coming from the steering rack when steering left. The vehicle was not diagnosed nor repaired by an independent mechanic or dealer.
+   - while driving the steering wheel was tight while turning. I took the vehicle to an independent mechanic, who informed I that the failure was due to the rack and pinion.
+   - Steering rack and pinion failure, should not be happening at this low of miles and have read of similar cases with ford's rack and pinion of this style. Pulls hard to other lanes and almost causing accident or crash, ext
+   - while driving, the vehicle was difficult to turn. the power steering fault message was displayed on the instrument panel. I took the vehicle to the local dealer where they found needing the rack and pinion to be replaced
+
+#32  n=552  [wipers, wiper, windshield, windshield wipers, rain, windshield wiper, wiper motor, visibility, motor, slow]
+   - while driving 40 MPH during a severe rainstorm, the windshield wipers stopped working. I had taken the vehicle to an independent mechanic who found wiper motor had failed. I was advised that there was a recall associated
+   - The windshield wiper system has malfunctioned and appears to have an electrical issue. The wipers only activate on the highest speed setting and cannot be reduced to lower speeds unless the system is completely turned of
+   - while driving in rainy weather at an undisclosed speed, the windshield wipers reduced speed and became inoperable. I took the vehicle to the dealer where the mechanic was able to duplicate the failure; however, the mecha
+   - while driving 45 MPH in the rain, the windshield wipers moved up an inch and stopped operating. upon deactivating and reactivating the windshield wipers, the failure recurred. the failure was persistent. I took the vehic
+   - Wipers quite intermittently in rain or when using windshield washer Could not see clearly Problem intermittent dealer said wiper motor Yes No warning just quit Problem same as in recall NHTSA22v-142 on the vehicle 2021 a
+
+#35  n=549  [tire, tires, tread, sidewall, tire pressure, cooper, size, rim, pressure, separation]
+   - while driving I became aware that the tires were cupping. I took the vehicle to the dealer to be diagnosed and the technician stated that the failure was a known issue. The tires were rotated however, the failure persist
+   - while driving 70 MPH, the vehicle began to shudder. As the vibration continued, I began to lose control of the vehicle and the vehicle nearly swayed off the road. I was able to pull to shoulder of the highway. Upon inspe
+   - 275/55R20 Goodyear Wrangler literally exploded while driving on I-40 East Bound in New Mexico on 2/21/23 at approximately 9 AM. Roadway was dry and clear of any debris. Shredded tire caused extensive damage to underside 
+   - he notice that tread separation from the rear passenger side tire. On another occasion I had a blowout on the front driver side where the tread separation. The front driver side tire was replaced with a used tired and th
+   - while his wife was driving approximately 65 MPH, she heard an abnormal bang or popping sound. the low tire pressure warning light for the rear driver's side tire was displayed. his wife stated that the tire pressure fell
+
+#44  n=536  [recall repairs, nhtsa campaign, campaign numbers, numbers recall, campaign, numbers, notifications nhtsa, received notifications, notifications, parts recall]
+   - I received notification of NHTSA Campaign Numbers: recall (Structure) and recall (Back Over Prevention); however, the parts to do the recall repairs were unavailable. the manufacturer had exceeded a reasonable amount of 
+   - I received notifications of NHTSA Campaign Numbers: recall (Back Over Prevention) and recall (Suspension); however, the parts to do the recall repairs were unavailable. the manufacturer had exceeded a reasonable amount o
+   - I received notifications of NHTSA Campaign Numbers: recall (Back Over Prevention) and recall (Structure); however, the parts to do the recall repairs were not yet available. the manufacturer had exceeded a reasonable amo
+   - I received notifications of NHTSA Campaign Numbers: recall (BACK OVER PREVENTION) and recall (STRUCTURE); however, the parts to do the recall repairs were not yet available. the manufacturer had exceeded a reasonable amo
+   - I received notifications of NHTSA Campaign Numbers: recall (Back Over Prevention) and recall (Service Brakes, Hydraulic); however, the parts to do the recall repairs were not yet available. the manufacturer had exceeded 
+
+#48  n=522  [door, latch, latches, door latch, latches locks, recall latches, linkages, locks linkages, locks, passenger door]
+   - while the vehicle was parked, the front driver's side door latch failed to operate as intended and the door failed to close securely. due to the failure the vehicle was driven to work with an open door. I took the vehicl
+   - the driver's side front door latch was inoperable. The driver's side front door failed to close as designed. I took the vehicle to the local dealer and I was told that the vehicle was not covered under a recall. I relate
+   - while attempting to close the rear driver’s side door, the door failed to latch securely. The door ajar warning alert indicated that the door was open. she used a rope to keep the door closed. I was concerned that one of
+   - while driving 5 MPH, the front driver’s side door was erroneously unlatched and opened. I indicated that on several occasions, the door would not remain latched. On other occasions, the door would not open as needed, cau
+   - while driving 35 MPH, the driver's side rear passenger’s door independently opened. I drove back to the residence but was unable to securely lock the door. when the door opened, the "Door Open" chime sounded, and the " D
+
+#40  n=495  [blower, blower motor, air, ac, motor, heat, climate, fan, hot, evaporator]
+   - - Component: Air conditioning system. - Safety: A/C failure in summer heat conditions over 90 degrees. - This a known Ford issue with thousands of complaints and not resolution. Ford does not want to repair issue. - Ford
+   - the blower motor functioned intermittently, turning on and off unexpectedly. the A/C functioned as intended during the cooler months but was intermittently inoperable in the warmer months, requiring that the wires that w
+   - The ac evaporator core keeps going out and it’s now out of warranty. This has happened on thousands of the vehicle. There needs to be a recall to force Ford to fix this costly problem that in 100+ heat is a major safety 
+   - while driving the HVAC blower motor failed to blow cold or hot air as needed. The failure caused the defroster to be inoperable and failed to defrost the front windshield. I took the vehicle to the dealer, where they fou
+   - NHTSA has already made a recall for some the vehicle models with this issue. See Campaign #recall Summary Ford motor company (ford) is recalling certain 2022-the vehicle vehicles previously repaired incorrectly under rec
+
+#70  n=487  [brakes, pedal, brake, brake pedal, stop, floor, braking, pedal goes, grab, goes floor]
+   - When engaging brake pedal becomes very hard to push and having to push pedal all the way to the floor where it slows finally and then stops. It does not stop when push the brake pedal like normal. Pedal at the floor stil
+   - Brakes seem to be reluctant to react to pressure on brake pedal at low speeds, like slowly rolling forward, and eventually a higher pressure is needed and an abrupt stop occurs. Also on a slippery road some abrupt stoppi
+   - Driving under normal conditions, brake pedal goes to the floor, very hard to stop vehicle. This happened 3 times. Twice in July 2022 on a family road trip, and today, 11/15/2022 while being driven to work, almost resulti
+   - Spongy brakes. Occasionally the pedal goes to the floor and the vehicle will not stop as it should.
+   - When braking there is no resistance on the brake pedal and is slow to break. Very scary when it randomly happens when driving and unable to quickly stop!
+
+#46  n=479  [axle, bolt, rear axle, axle bolt, rear, sheared, hub, bolt sheared, bolts, wheel]
+   - The rear axle bolts - both - were sheared. Specifically, the bolt head and a portion of the bolt shaft were loose within the small hub cap that covers the axles. I was unaware that either bolt had failed. The failure was
+   - I have had the rear axle bolts break 2 times now. ford has had 2 years to come up with a fix and they have not as of today. the recall was issued over 2 years ago and the temporary fix is all they have come up with. deal
+   - THE REAR AXLE BROKE IN HALF WITHOUT WARNING WHILE DRIVING DOWN THE ROAD. PRIOR TO BREAKING THE AXLE LOOKED TO BE IN GOOD SHAPE. UPON LOOKING IT UP FORD HAD PREVIOUSLY RECALLED THIS PART FOR THAT SPECIFIC REASON. I CALLED
+   - I am writing to express my serious concerns regarding the unresolved rear axle recall on my the vehicle. Although a temporary repair was performed last year, I remain deeply worried about the safety of my vehicle and, mo
+   - The exact circumstances highlighted in Customer Satisfaction Program 22B34, which outlines the recall necessary for replacement of axle bolts and axles after the axle bolt shears off while driving. The recall is for truc
+
+#54  n=459  [torque, torque converter, converter, shuddering, transmission, shudder, miles, dealership, acceleration, warranty]
+   - What happened: The torque converter/transmission system failed. My the vehicle (VIN , 75,000 miles) experiences a shudder and vibration under 60 mph during normal driving, with no diagnostic trouble codes present. This m
+   - Transmission/Torque converter is failing. The vehicle shudders at low speeds, it struggles to reach the speeds it needs making it hard to follow the flow of traffic or pull out into the road after coming to a stop. Broug
+   - Know issue by ford company defective torque converter with service report bulletins for recommended fix’s for there transmission shuddering 20mph to 35mph..failing under @ 83,000 miles. Ford has an open class action laws
+   - My the vehicle has been exhibiting recurring transmission and torque converter-related issues, especially during low-speed driving. The vehicle frequently hesitates when accelerating and experiences sudden reductions in 
+   - My vehicle is experiencing transmission shuddering, and after taking it to an authorized Ford dealership for diagnosis. I was told that there is a problem involving the torque converter. I was initially quoted approximat
+
+#69  n=455  [oil, oil pump, oil pressure, pressure, pump, engine, engine oil, belt, tensioner, pressure light]
+   - Low oil pressure light came on. Pulled over right away. No rough idle or any odd noises. Had it towed to the ford dealership. Was told it was an oil pump retention belt that broke and the engine had no compression. The b
+   - on 3/30/2024 I received a message on my dashboard that "oil pressure failure" was detected. Soon after I lost power from 30mgh to 10mph. When I parked, my engine was sounding like it was knocking and then metal against m
+   - I was on my way home from work when my oil light came on and I began losing acceleration on a busy highway. It wouldn't let me go above 20 mph which was definitely unsafe due to the nature of traffic on the highway. I ma
+   - COMPLETE ENGINE FAILURE ON HIGHWAY. TOWED TO FORD DEALERSHIP REQUIRES NEW ENGINE REPLACEMENT DUE TO LOW OIL PRESSURE ISSUE AT COST OF $7,800. CAR HAS 71,058 TOTAL MILES 2018 YEAR. CALLED FORD, SAID OUT OF WARRANTY NOTHIN
+   - In mid-2024, I was notified of a recall (recall / recall) involving the engine oil pump belt. When I attempted to schedule repairs, I was told parts were not available. I was instructed to watch for loss of oil pressure 
+
+#56  n=411  [stalls, gas, stall, stalling, start, tank, fuel, stalls driving, stop, idle]
+   - After driving my vehicle it stalls once it is stopped and I try to press the gas. This can cause a collision. This can either be the fuel system which they did have a recall on my car but the dealership decided it wasn't
+   - This car stalls while driving. I'll drive & the engine stops. I have to restart the car. It is Very Dangerous.
+   - CAR STALLS AFTER STARTING AND DRIVING A SHORT DISTANCE. WILL RESTART AND PERFORM OK. USUALLY HAPPENS AFTER CAR HAS BEEN DRIVEN THEN PARKED FOR A SHORT AMOUNT OF TIME (LIKE RUNNING INTO A STORE) THEN STALLS AFTER DRIVEN S
+   - My the vehicle acts like it is about to stall out once I hit the gas from a stop. It has happened multiple times. After idling for 10 minutes when I go to take off it will shift so hard that it pushes you forward in your
+   - Vehicle consistently stalls after starting or while vehicle is in motion.
+
+#62  n=411  [fuel, fuel pump, pump, pressure fuel, high pressure, pressure, diesel, high, recall, tank]
+   - This is a continuation/escalation of NHTSA complaint 11689917. My the vehicle has experienced repeated fuel-system/electrical fuel-pump failures. The vehicle previously stalled and later cranked but would not start, retu
+   - Component/System: Low-pressure fuel pump/fuel delivery system related to Recall recall. Vehicle is a the vehicle Hybrid. Description: My vehicle is subject to Recall recall involving the low-pressure fuel pump that can c
+   - Almost 5 months ago I received a Safety Recall Notice from Ford about fuel pump failure on certain vehicles including my the vehicle. My vehicle suffers from insufficient fuel flow and I'm afraid of losing power or the m
+   - I received notification of recall (FUEL SYSTEM, DIESEL); however, the part to do the recall repair was not yet available. the manufacturer had exceeded a reasonable amount of time for the recall repair. I had experienced
+   - This truck had a complete fuel system replaced already once when it failed while the customer was driving. We are the next owners and didn't know it had this major failure before purchase. We know this fuel pump is an is
+
+#47  n=407  [water, mold, sunroof, carpet, leak, rain, roof, wet, passenger, leaking]
+   - while operating the vehicle, rainwater leaked into the cabin of the vehicle from the roof. the leaks were present at several locations inside the vehicle which included the rear hatch area, the rear driver’s, and passeng
+   - Heavy rain causes water to leak inside vehicle. Repaired sunroof on which electrical parts was “burned” out due to water leakage. Water continues to leak inside of vehicle through driver and 3rd row (driver side) seatbel
+   - while the vehicle was parked, the front passenger side door was opened, and I noticed water on the carpet after it had rained overnight. on another occasion, while driving 25 MPH, during a rainstorm, I noticed water leak
+   - after it had rained, the front driver’s side footwell filled up with water. I took the vehicle to the dealer where the mechanic discovered that the drain in the sunroof was clogged. The dealer was aware of the failure an
+   - after it had rained, water entered the vehicle through the sunroof and would accumulate inside the roof of the vehicle. While coming to a stop while driving, the water would flow to the front of the vehicle and leak insi
+
+#45  n=396  [frame, rusted, rust, subframe, sub frame, rusting, sub, frame rusted, rear, bed]
+   - WENT TO HAVE TRUCK LINED UP AND WAS TOLD IT HAD RUSTED THE FRAME ALMOST INTO IN THE REAR. IN MORE THAN ONE PLACE.
+   - I took the vehicle to an independent mechanic, who informed I that the subframe was severely rusted. The vehicle was not diagnosed nor repaired by an independent mechanic or dealer.
+   - the subframe was completely rusted through. The vehicle was towed and diagnosed but was not repaired.
+   - WHILE DOING A ROUTINE CHECK UNDER THE VEHICLE, I NOTICED THAT THE SUBFRAME UNDER THE VEHICLE WAS SEVERELY RUSTED.
+   - Severe rust on frame, both sides. Mechanic refused to do service until rust situation is remediated. Said vehicle is unsafe to drive!
+
+#57  n=367  [apim, sync, radio, phone, screen, navigation, update, bluetooth, gps, hands free]
+   - A software update to the SYNC 3 system was sent out to my vehicle after the update took place the radio system as well as navigation, backup camera, and self parking all failed to work. And the system never turned back o
+   - The main interface screen for GPS, Radio, Bluetooth (hands free phone operation), backup camera, and other vehicle settings, is malfunctioning and frequently non-responsive. This is tied to a faulty ACCESSORY PROTOCOL IN
+   - APIM or SYNC 3 malfunction. Navigation failure and not working properly alerts, clock in car not set correctly and won’t allow owner to fix it, no audio at all, no panel touch tones, popping/cracking intermittent through
+   - I believe the APIM has malfunctioned. I have a black screen. No backup camera, no controls for the functions on the screen, no radio and no hands free telephone. The safety of being able to see what is behind me while ba
+   - What component or system failed or malfunctioned, and is it available for inspection upon request? APIM issues causing GPS, Bluetooth, radio, settings and camera to mess up. How was your safety or the safety of others pu
+
+#72  n=361  [oil, oil pressure, pressure, low oil, low, pressure warning, oil pump, engine, engine oil, came]
+   - while operating the vehicle, the oil warning light came on and the message "low oil pressure" flashed on and off. I was advised to immediately stop driving the vehicle. The vehicle was later diagnosed by an independent m
+   - while driving 55 MPH, the engine oil pressure warning light came on. I was able to veer to the side of the road. The vehicle was towed to the local dealer, where it was diagnosed and determined that the engine needed to 
+   - while driving the low engine oil pressure warning light came on. I was able to pull the vehicle to the side of the road. The vehicle was towed to a local dealer where they found the engine needed to be replaced.
+   - while driving 35 MPH, the low oil pressure warning light came on, and the vehicle started to lose power. I took the vehicle to an independent mechanic to be diagnosed. I was told that the engine needed to be replaced due
+   - while driving 45–55 MPH, the low-pressure oil warning light came on. I took the vehicle to an independent mechanic, who informed I that the engine had failed, and that the vehicle was not drivable. The vehicle was towed 
+
+#77  n=357  [differential, rear differential, grinding, rear, noise, grinding noise, bearing, wheel, axle, sound]
+   - while driving the vehicle shuddered and there was an abnormally loud sound coming from the rear of the vehicle. I took the vehicle to an independent mechanic, where it was diagnosed and determined that the rear different
+   - while driving at slow speeds and turning in either direction, there was an abnormal grinding sound coming from the rear of the vehicle. Additionally, while driving the vehicle shuddered and hesitated while accelerating. 
+   - while driving there was an abnormal grinding sound coming from the front end of the vehicle. I took the vehicle to the dealer, where I was told that the transmission fluid was leaking. The dealer diagnosed that the power
+   - while driving 2 - 25 MPH, there was an abnormal grinding sound coming from the rear of the vehicle. I took the vehicle to the local mechanic who diagnosed the failure as a rear axle failure.
+   - while driving 75 MPH over a bump, the vehicle made an abnormally loud banging sound. the vehicle then made an abnormal humming and grinding sound that persisted while driving and coming to a complete stop. the failure ha
+
+#59  n=346  [cluster, instrument, instrument cluster, panel, instrument panel, blank, screen, digital, speedometer, display]
+   - while operating the vehicle, the instrument cluster screen malfunctioned and turned black or flickered off and on. Additionally, the headlights, turn signals, and brake lights intermittently failed to operate as needed. 
+   - while driving 20 MPH, the instrument cluster turned blank. The vehicle was steered to the side the side of the road and was restarted; however, the failure persisted. I took the vehicle to an unknown dealer, where they f
+   - while driving the instrument cluster went blank and the vehicle shut off, causing a loss of drive power. The vehicle was coasted to the side of the road and restarted. The failure reoccurred four times. I took the vehicl
+   - while driving the instrument cluster failed to operate as needed. I was not able to see if any warning lights came on. I took the vehicle to the dealer; however, I was not sure if the vehicle was diagnosed. The dealer wa
+   - When driving the vehicle's instrument panel cluster randomly goes blank. When it does so, all of the items related to speed control, lighting, turn signals, etc. become non-operational. Additionally, the driver has no id
+
+#65  n=345  [water pump, water, pump, engine, coolant, pump failed, internal water, leaking, internal, pump failure]
+   - I OWN A the vehicle WHICH HAS 78,146 MILES AND WHILE DRIVING THE ENGINE LIGHT CAME ON AND THE VEHICLE STALLED WITHOUT WARNING. I HAD TO PUT MY CAR IN NEUTRAL AND COAST TO THE SIDE OF THE ROAD WITH MY CHILDREN IN THE CAR.
+   - the vehicle V6 Ecoboost with only 63,000 miles, the water pump is leaking. This is a well known failure with hundreds if not thousands of complaints. The repair is extensive and costly for a $70 part that is known to fai
+   - Water pump failure Car has 44,000 miles. Dealer maintained Safety - I am reading that engine can shut off Known problem with Lincoln/ ford water pump failures in engines Just purchased vehicle last month dealer filled up
+   - We take good care of our cars and we do all required maintenance and oil changes but we are now facing a water pump failure that caused my engine to fail without any warring. On Wednesday March 9th I was passing a Semi T
+   - The water pump that is incased inside my engine has started leaking at only 75,000 miles with very few of those miles in the last 2 years as I've hardly been driving because of the pandemic. I was not aware of this issue
+
+#61  n=306  [loud, speakers, static, radio, noise, volume, sound, audio, ears, extremely loud]
+   - Extremely loud/deafening loud pop and static noise coming from the speakers. Scared me so bad while I was driving had to throw the hazard on and stop the vehicle in road. The volume would not adjust and radio would not t
+   - Overview: Intermittent issue with audio system in vehicle making/playing EXTREMELY LOUD popping noise out of speakers randomly and with no warning. Sounds like someone is setting off explosions or a firearm inside the ca
+   - Started vehicle and a horrific static popping sound started coming thru the speakers. It lasted about 10 seconds and I immediately turned vehicle off as I thought it was going to explode or burn. I restarted it again and
+   - Upon starting the vehicle there was an extremely loud electrical static/popping sound coming from all speakers. Sound was extremely loud, in the hearing damage range - estimate over 100db. After a few seconds the sound s
+   - Loud pop and then extremely loud static coming through all speakers, pulled over turned truck off and noise continued. Unable to drive because noise was so loud. Started truck again and turned off multiple times, turned 
+
+#67  n=293  [oil, pan, oil pan, consumption, oil consumption, leak, quarts, oil leak, leaking, oil change]
+   - while the vehicle was at the local dealer for routine maintenance, I was told that engine oil was discovered leaking from the oil pan. I was advised that the engine oil pan needed to be replaced.
+   - A chronic oil leak from the plastic oil pan. It has been fixed once in 2019, replaced in 2022 and again needs replacement in 2024. Only 39500 miles on the vehicle.
+   - while he was inspecting the vehicle, he noticed an excessive amount of oil leaking from the oil pan. I took the vehicle to the dealer, where the oil pan and valve cover were replaced; however, the failure recurred. The v
+   - while having a routine oil change, the mechanic observed a leak in the oil pan. I took the vehicle to three dealers and one independent mechanic where they found there was an oil pan gasket leak and the oil pan gasket ne
+   - the oil pan was leaking. The vehicle was diagnosed but not yet repaired.
+
+#68  n=264  [door, latch, doors, freezing, door latch, open, closed, cold, lock, temperatures]
+   - Door Latch Freezing during cold winter months(every year) where temperatures drop below 32°F even after Ford Recall done on both front door latches. Inability to open door, then after door opened there is an Inability fo
+   - Door latching system is often inoperable when temperatures are below freezing. The door will not latch and must be held close while driving. Vehicle has been repaired once by dealer per bulletin recall but the problem pe
+   - The driver door latch froze during cold outside temperatures and the door would not latch closed. I had to drive while holding my door closed with my hand. This is extremely dangerous. This is a known recall from Ford an
+   - IN COLD WEATHER THE DOOR LATCHES FREEZE AND WILL NOT LATCH THIS IS THE SECOND the vehicle I HAVE OWNED THAT HAS DONE THIS. HAS HAPPENED NUMEROUS TIMES ATLEAST 20
+   - I live in a cold climate, WA State, and own a the vehicle XLT. On several occasions, both the drivers front door and passenger front doors have opened while driving without activating the door handle. This only occurs wh
+
+#63  n=263  [tailgate, tailgate opened, opened, open, opens, trailer, tailgate opens, tailgate open, tailgate opening, tail gate]
+   - The tailgate continues to open randomly while driving or backing up the truck. The recall for this was completed but the issue continues to occur. Most recently this caused $525 worth of damage to my 5th wheel camper and
+   - Tailgate opened while driving. Cargo flew out of truck onto roadway. Has happened multiple times.
+   - while operating the vehicle the tailgate would randomly unlatch and open. The cause of the failure was not determined. The local dealer and manufacturer were not notified of the failure. I received notification of recall
+   - TAILGATE OPENED ON ITS OWN, UNEXPECTEDLY, WHILE DRIVING. THIS HAS HAPPENED SEVERAL TIMES RECENTLY. IT COULD BE DANGEROUS. CANADA HAS ISSUED A RECALL TO CORRECT THIS ISSUE. WHY NOT THE US? THE FIX APPEARS TO BE EASY.
+   - Tailgate continues to open on its own primarily while driving on unmaintained dirt roads. Recently this happened while out hunting and had some cargo fall out of my truck. Fortunately, another hunter saw what happened, g
+
+#80  n=256  [prevention, camera, image, prevention vin, rearview, rearview camera, recall prevention, reversing, vin, vin included]
+   - while attempting to reverse, the rearview camera failed to display an image. The message “Camera Unavailable” was displayed. neither a dealer nor I related the failure to recall (BACK OVER PREVENTION); however, the VIN w
+   - while reversing, the rearview camera failed to display an image, comprising the back over prevention system. The vehicle returned to normal functionality, but the failure became a regular occurrence. I took the vehicle t
+   - while reversing, the rearview camera failed to display a rearview image. The vehicle returned to normal functionality, but the failure became a regular occurrence. After investigating the failure, I related the failure t
+   - while shifted to reverse, the rearview camera failed to display an image, comprising the back over prevention system. After investigating the failure, I related the failure to recall (Back Over Prevention); but the VIN w
+   - while attempting to reverse, I noticed the rearview camera displayed a blank screen. the failure had occurred on several occasions. I related the failure to recall (BACK OVER PREVENTION); however, the VIN was not include
+
+#75  n=235  [door, ajar, door ajar, doors, closed, alarm, interior, lock, dome, interior lights]
+   - DOOR AJAR ALERT COMES ON AFTER CLOSING DRIVER DOOR CAUSING INTERIOR DOME LIGHT TO STAY ON AND EXTERNAL LOCKING MECHANISM DOES NOT WORK SUCH AS LOCK CODE BUTTONS AND HAND SENSOR CAUSING THE VEHICLE NOT TO LOCK. THIS HAPPE
+   - DOOR AJAR WARNING COMES ON DESPITE ALL DOORS BEING CLOSED SECURELY. THIS CAUSES ANY NUMBER OF ISSUES INCLUDING INTERIOR LIGHTS COMING ON WHICH IS NOT SAFE AT NIGHT, ENTRY ALARM GOING OFF AT ANY HOUR OF THE DAY OR NIGHT, 
+   - Door ajar warning even though the door is closed. Doors will not lock and interior lights remain on.
+   - DOOR AJAR WARNING LIGHT IS ALWAYS ON THE PASSENGER DOOR, AT NIGHT THE DOORS UNLOCK THEMSELVES, AND INTERIOR LIGHT IS ON CAUSING BATTERY DRAINAGE.
+   - The door ajar light illuminates on the dash even though the door is shut, the door ajar shows it is the driver side back door. With that warning I'm unable to lock the doors while inside the vehicle and the doors do not 
+
+#73  n=228  [flex, flex plate, plate, flexplate, cracked, flywheel, rattling, plate cracked, noise, rattling noise]
+   - The flex plate is cracked at 87,000 miles and causing the vehicle to make a loud rattling noise near the bottom of the engine toward the back of the transmission. While driving the vehicle it drags while accelerating on 
+   - My daughter borrowed my car and experienced a loud rattling noise. We had it towed to our local shop who recommended bringing it to a Ford Dealership for the issue. We had it towed there and I was told after they looked 
+   - I owns the vehicle. I received notification of Customer Satisfaction Program: recall. I took the vehicle to a dealer where the vehicle was inspected but no repairs were performed. approximately 10 months later, while dri
+   - The flex plate on my vehicle was cracked. Which damaged the transmission pump. We heard what sounded like a box of rocks which quickly got louder and louder we took the car to the dealer the next day. We had no other war
+   - Automobile was making a loud rattling noise. More noticeable at idle. The rattling noise then became loudest with start-up. Temperature gauge increased, but did not get to overheat as the vehicle was discontinued from dr
+
+#78  n=228  [brakes, noise, sound, squealing, loud, brake, pads, rear brakes, brake pads, reverse]
+   - while reversing, there was a loud squealing sound coming from the vehicle. I took the vehicle to the local dealer who inspected the braking system but was unable to determine the cause of the failure, or where the sound 
+   - while the vehicle was in reverse(R), there was an abnormal screeching sound coming from the rear brakes while depressing the brake pedal. I had taken the vehicle to a local dealer and an undisclosed recall repair was per
+   - while reversing and depressing the brake pedal, the brakes emitted an abnormal squealing sound. the failure mainly occurred while reversing. Additionally, a message indicating that the Forward Collision Avoidance camera 
+   - while reversing, the brake pedal was depressed and there was an abnormally loud squealing sound coming from the rear of the vehicle. I took the vehicle to the local dealer on several occasions, but the cause of the failu
+   - upon placing the vehicle in reverse(R), the brakes made an abnormally loud squealing sound while the brake pedal was depressed. I took the vehicle to several dealers where it was acknowledged that the failure was a known
+
+#76  n=226  [toe, toe link, link, suspension, rear toe, rear, links, toe links, rear suspension, alignment]
+   - The rear suspension toe link fractured while driving. The vehicle became uncontrollable and we nearly had a crash. When I ordered a new suspension toe link, it was different from the original one. I became suspicious and
+   - I WAS TRAVELLING ROUGHLY 30-35 MPH ON A COUNTRY ROAD (THAT WAS DRY AND CLEAR IN THE MIDDLE OF THE AFTERNOON) WHEN I SUDDENLY LOST CONTROL OF MY VEHICLE. IT FELT LIKE THE REAR END WAS FISHTAILING ALL OVER THE PLACE. I DID
+   - while driving the driver's side rear toe link fractured. the rear end of the vehicle swerved to the left. it was difficult to control the vehicle. The vehicle was driven to the shoulder of the roadway. I exited the vehic
+   - THE REAR SUSPENSION TOE LINK FAILED ON MY VEHICLE WHILE I WAS DRIVING IN CITY TRAFFIC, GOING STRAIGHT. I COULD ONLY GO 5 MPH TO THE NEAREST REPAIR SHOP AS THE REAR WHEEL WAS NEAR FALLING OFF. THERE ARE SEVERAL RECALLS FO
+   - I TOOK MY the vehicle IN FOR A RECALL FOR THE REAR TOE LINKS ON 1/6/21 AT 55,000 MILES SINCE THE RECALL WAS OPEN FOR MY CAR. EVEN THOUGH I WAS NOT EXPERIENCING ANY ISSUES. WHILE DRIVING MY CAR ON MAY 1, THE REAR WOULD SW
+
+#88  n=183  [tail, light bar, tail light, water, bar, taillight, lights, moisture, light, tail lights]
+   - the rear driver’s and passenger’s side taillight lenses had started to detach. As a result of the failure, water started to enter the taillight housings. due to the water intrusion, several warning lights were intermitte
+   - while operating the vehicle, the rear driver’s side and rear passenger’s side brake lights and taillights failed to illuminate. I discovered water and condensation inside the rear taillight assemblies. I took the vehicle
+   - All four of the tail lights, on the hatch and on the sides of the car are leaking and retaining water which has caused the brake/tail lights on the rear to fail. This is an obvious safety hazard and a quick Google search
+   - The light bar on the tailgate that is the brake lights and reverse lights is known to get moisture inside and stop working. It is a known problem with Ford as they recalled them 2 years ago and replaced it under warranty
+   - The tail lights have a design flaw that results in micro cracks appearing in the lights. This is similar to the issue related to the rear light bar, however it applies to the rear tail lights. (for reference the ford rec
+
+#81  n=179  [hood, paint, hood latch, latch, windshield, peeling, bubbling, paint peeling, corrosion, hood flew]
+   - the hood was rusting. I took the vehicle to local dealer where they found nothing to be replaced. The dealer was unable to assist until the hood was rusted all the way through. The manufacturer had been informed of the f
+   - Catastrophic Hood Latch Assembly breakage. Assembly came off car. The Hood then flew back onto windshield completely destroying it. Safety Latch was also detached. Hood latch Assembly was on top of motor after car was st
+   - she noticed the paint was bubbled up and paint was peeling off the hood of vehicle. I took the vehicle to the local dealer where informed it was manufacturer defect and the hood needed to be replaced.
+   - while the vehicle was parked, he observed a white blooming substance between the windshield and under the hood. he also observed a spot on the passenger’s side of the hood that was bubbling up. Additionally, I observed c
+   - THE HOOD PAINT WAS BUBBLING, CHIPPING, AND PEELING. I CALLED CAPITAL FORD OF WILMINGTON 4222 OLEANDER DR, WILMINGTON, NC 28403 910) 799-4060 WHERE INFORMED TO CONTACT THE MANUFACTURER. I took the vehicle to AN INDEPENDEN
+
+#85  n=177  [liftgate, hatch, lift, gate, lift gate, open, rear hatch, close, button, power liftgate]
+   - while using the liftgate, the liftgate failed to remain open. The liftgate inadvertently closed while loading and unloading the vehicle. I took the vehicle to be diagnosed but, was not repaired repaired. The dealer was u
+   - while operating the vehicle, the rear liftgate door erroneously became unlatched and opened. I later discovered that the rear liftgate locking mechanism was faulty and the liftgate door would not remain closed. The cause
+   - The rear liftgate closes unexpectedly. If gives a warning sound which you can hear if you're not in a noisy area and then closes. I've been struck several times but managed to get out of the way. The liftgate sensor has 
+   - On multiple occasions over the past year of owning the vehicle the liftgate has not functioned properly. In one instance it failed to open with any attempt (remote, dash button, liftgate button) - we could not get it to 
+   - THE REAR LIFT GATE RANDOMLY OPENS ON THE VEHICLE. DEALERSHIP HAS SAID IT IS A DEFECTIVE WIRING HARNESS. THE LIFT GATE CLOSE WITH PEOPLE STANDING AT THE REAR BUMPER LOADING ITEMS IN THE BACK AND WILL CONTINUE TO FIGHT TO 
+
+#89  n=174  [exhaust, manifold, exhaust manifold, manifolds, warped, exhaust manifolds, bolts, studs, exhaust leak, leak]
+   - The exhaust manifolds have warped, breaking a nut and stud and causing an exhaust leak. I am finding this is an extremely common failure indicative of a design flaw. Ford will not cover this under any extended coverage, 
+   - My local ford dealer found during a service request that the Driver’s side exhaust manifold has warped and broken studs for the manifold, causing an exhaust leak that poses a potential safety issue from gases leaking int
+   - Exhaust leak from manifold and broken bolt from engine block causing unhealthy exhaust to go into the cabin. Faulty Exhaust manifold removed/replaced with an upgraded new manifold/engine block bolts by license auto repai
+   - My exhaust manifold leak occurred in June of 2023. Paid $1650 in costs. At the time. In had 86552 miles in the truck. Only three bolts were replaced. Now, with 123000 miles, I have a new exhaust manifold leak. It appears
+   - Exhaust manifold leak due to factory turbo mounting and bolts issue. Due to improper amount of bolts in rear of exhaust manifold where ford designed the turbochargers to mount to there is warping of the exhaust manifold 
+
+#86  n=174  [shocks, struts, spring, strut, shock, leaf, springs, rear shocks, rear, suspension]
+   - while driving there was a rattling sound coming from the front-end of the vehicle. Upon inspection, it was discovered that the front driver’s and passenger’s side shock absorber springs were cracked and fractured, causin
+   - AT 20,000 MILES OF HIGHWAY DRIVING, BOTH FRONT END STRUTS WERE LEAKING AND REQUIRED WARRANTY REPLACEMENT BY DEALER. I HAVE SINCE READ ABOUT MANY PROBLEMS WITH the vehicle STRUTS FALLING PREMATURELY. *TR
+   - while the vehicle was parked, I noticed that the shocks located at the rear of the vehicle were leaking. I took the vehicle to the dealer, where it was diagnosed and determined that the shock absorbers had failed and nee
+   - The front strut springs are breaking while driving and while the vehicle is parked. The spring material is defective because of the many fractured parts. This is on a vehicle with less than 65000 miles on it.
+   - I had taken the vehicle for scheduled maintenance and was told that the rear shocks were leaking and needed to be replaced. the vehicle was bouncing while depressing the accelerator or while driving over a deformation in
+
+#87  n=169  [trailer, trailer brake, trailer brakes, controller, brakes, brake, brake controller, connected, towing, trailers]
+   - Trailer brakes although operational at start of journey intermittently fail to operate some time thereafter at which point they stay failed. This happens without any warning or notice to the driver. All indications are t
+   - New the vehicle. 12,000 miles. At around 10K miles, a factory recall regarding the firmware driving the brake light system was performed. This has 'broken' the factory installed trailer braking system that applies brakin
+   - "Trailer wiring fault" is the warning message on my information display on my the vehicle Super Duty Truck. The warning message appears when I have a trailer attached to my truck. When applying the brakes, the trailer br
+   - Trailer brake controller to apply breaks to Trailer is not working and unable to stop safety. Problem has been reproduced with dealership. The trailer control module has been replaced and did not resolve the issue. Still
+   - While towing an RV trailer, the trucks brake controller failed to send signal to trailer when brakes were applied relying on truck only to stop load. The truck recognized trailer was attached but when brake controller wa
+
+#84  n=168  [awd, awd module, module, assist, hill, awd fault, collision, pre collision, pre, collision assist]
+   - Ford service center diagnosed a failed AWD module. It was only examined by the Ford techs at the dealership where I bought it. Total price was approx $1200 which was covered by extended warranty plan, but I had to pay a 
+   - AWD Module failed, deactivated all traction control, all wheel drive, pre-collision alert, emergency breaking. Module failure is known issue to Ford
+   - Out of nowhere, my vehicle had an AWD module failure. This has led to several other subsystems being triggered and warning lights going off. It also disables AWD. After consulting with a vendor, it appears that this is a
+   - I was driving home and all error lights came on. When I got home, my ford app said transmission failure, awd failure, hill start failure and pre collision failure. All of these are necessary to not get in an accident. I 
+   - AWD module has failed and per FORD is not covered in replacement cost. Multiple error messages about forward collision, AWB and adaptive cruise control. This module was covered un a previous customer satisfaction program

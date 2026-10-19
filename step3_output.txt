@@ -1,0 +1,34 @@
+Embeddings: all 81,376 texts loaded from cache
+UMAP: loaded from cache (umap_8d0c220e6f43.npy)
+HDBSCAN: clustering ...
+HDBSCAN: done in 7.3 min
+
+Clusters found: 89; noise before reassignment: 39.4%
+Complaints: 83,992
+  core         60.2%
+  nearest      30.1%
+  unclustered  8.7%
+  too_short    1.0%
+Largest cluster: 3,190 complaints (3.8% of all)
+Smallest cluster: 168
+Top 10 clusters hold 31% of clustered complaints
+Channel check: hotline share overall 36%; clusters over 85% hotline: 7, under 5% hotline: 9
+
+Top 15 clusters:
+  #1    3,190  brake, brakes, pedal, brake pedal, fluid, brake fluid, abs, hydraulic, service brakes, booster
+  #3    2,814  transmission, shifting, gear, clutch, miles, gears, cdf, warranty, dealership, shift
+  #6    2,662  engine, coolant, engine warning, check engine, warning light, check, engine needed, light came, came, needed replaced
+  #5    2,510  gear, transmission, downshifted, gears, shifting, shifts, shift, hard, unexpectedly, downshifted gear
+  #2    2,463  trim, pillar, windshield, pillar trim, structure, recall structure, detached, recall repair, structure recall, repair
+  #9    2,236  steering, power steering, power, steering assist, assist, turn, assist fault, fault, wheel, steering wheel
+  #4    2,120  steering, power steering, power, assist, steering assist, recall, wheel, steering wheel, rack, fault
+  #16   1,982  transmission, clutch, needed, needed replaced, replaced, transmission needed, gear, tcm, failed, transmission failed
+  #7    1,862  wobble, death wobble, death, shaking, bump, violently, steering, end, shake, mph
+  #13   1,599  steering, power steering, recall steering, power, steering assist, steering vin, included, vin included, vin, assist
+  #26   1,526  recall, parts, recall recall, dealership, safety, safety recall, remedy, nhtsa, recalls, notice
+  #41   1,476  recall, recall repair, available, repair, manufacturer, notification, notification recall, received, reasonable recall, exceeded reasonable
+  #10   1,351  shifter, park, shift, cable, bushing, reverse, gear, gear shifter, shifter cable, cable bushing
+  #11   1,284  lead frame, lead, frame, gear, transmission, downshift, molded, recall, speed, leadframe
+  #82   1,263  engine, coolant, new engine, new, miles, warranty, engine light, dealership, engines, cost
+
+Saved complaint_clusters.parquet, clusters.parquet (89 clusters), cluster_preview.txt. Total 7.6 min

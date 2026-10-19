@@ -1,0 +1,28 @@
+Reviewed 200 of 200 sampled complaints.
+
+CORE (50,562 complaints, 67% of assigned)
+  reviewed 100: correct 72, partly 23, wrong 5
+  strict  accuracy 72%  (95% CI 63% to 80%)
+  lenient accuracy 95%  (95% CI 89% to 98%)
+
+NEAREST (25,251 complaints, 33% of assigned)
+  reviewed 100: correct 62, partly 27, wrong 11
+  strict  accuracy 62%  (95% CI 52% to 71%)
+  lenient accuracy 89%  (95% CI 81% to 94%)
+
+OVERALL strict  69%  (95% CI 62% to 75%), weighted by stratum size
+OVERALL lenient 93%  (95% CI 89% to 97%), weighted by stratum size
+
+Coverage: 75,813 of 83,992 complaints (90.3%) are assigned to a problem; the rest are one-offs or too short.
+
+Most common misassignments (assigned -> better fit):
+  3x  Brake booster fails to engage  ->  Brake pedal sinks to floor, brake fluid leak
+  3x  Rear axle bolt shears off  ->  not given
+  3x  Vehicle hesitates or loses power when accelerating  ->  Transmission slips, shifts hard or fails
+  3x  Water leaks into cabin from roof  ->  None of the list
+  3x  Transmission unexpectedly downshifts  ->  Transmission slips, shifts hard or fails
+  2x  Recall parts unavailable: backup camera  ->  Recall repair delayed or ineffective
+  2x  Gear shifter cable bushing detaches  ->  Transmission slips, shifts hard or fails
+  2x  Coolant leaks into cylinders, engine needs replacing  ->  not given
+  2x  High-voltage battery fault, vehicle will not start  ->  None of the list
+  2x  Airbags fail to deploy or inflate  ->  None of the list

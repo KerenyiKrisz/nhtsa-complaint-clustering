@@ -1,0 +1,92 @@
+﻿cluster_id,n_complaints,llm_label,llm_system,llm_issue_type,parts_delay_share,problem,system,issue_type,review,note
+1,3190,Brake pedal floors and fluid leaks,Brakes,Recall or service process,0.22,"Brake pedal sinks to floor, brake fluid leak",Brakes,Product defect,changed,"LLM marked #1 as recall; only 22% cite a parts delay, so defect"
+3,2814,Transmission fails to shift gears properly,Transmission & driveline,Product defect,0.03,"Transmission slips, shifts hard or fails",Transmission & driveline,Product defect,changed,2 clusters merged
+6,2662,Coolant leaks into engine block,Engine & cooling,Product defect,0.01,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+5,2510,Transmission unexpectedly downshifts to first gear,Transmission & driveline,Product defect,0.0,Transmission unexpectedly downshifts,Transmission & driveline,Product defect,changed,2 clusters merged
+2,2463,A-pillar trim detaches from windshield,"Body, doors & glass",Recall or service process,0.44,A-pillar trim detaches from windshield,"Body, doors & glass",Product defect,issue type by rule,
+9,2236,Power steering assist fails while driving,Steering,Product defect,0.01,Power steering assist fails while driving,Steering,Product defect,kept,4 clusters merged
+4,2120,Power steering assist fails suddenly,Steering,Product defect,0.03,Power steering assist fails while driving,Steering,Product defect,changed,4 clusters merged
+16,1982,Transmission fails to shift into gear,Transmission & driveline,Product defect,0.02,"Transmission slips, shifts hard or fails",Transmission & driveline,Product defect,changed,2 clusters merged
+7,1862,Steering wheel shakes violently during bumps,Steering,Product defect,0.03,Violent front-end shaking after bumps (death wobble),Steering,Product defect,changed,NHTSA code split STEERING 44% / SUSPENSION 41%
+13,1599,Power steering assist fails intermittently,Steering,Product defect,0.01,Power steering assist fails while driving,Steering,Product defect,changed,4 clusters merged
+26,1526,Recall parts unavailable,General / multiple systems,Recall or service process,0.12,Recall repair delayed or ineffective,General / multiple systems,Recall or service process,changed,"mixed recall grievances: no parts, repair failed, no notice"
+41,1476,Backup camera sensor unavailable,Cameras & driver assistance,Recall or service process,0.66,Recall parts unavailable: backup camera,Cameras & driver assistance,Recall or service process,changed,LLM label for #41 was wrong; 66-80% cite a recall parts delay
+10,1351,Gear shifter cable bushing detaches,Transmission & driveline,Product defect,0.03,Gear shifter cable bushing detaches,Transmission & driveline,Product defect,kept,
+11,1284,Transmission lead frame causes violent downshift,Transmission & driveline,Product defect,0.04,Transmission lead frame causes violent downshift,Transmission & driveline,Product defect,kept,
+82,1263,Coolant leaks into engine block,Engine & cooling,Product defect,0.02,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+39,1174,Front suspension shakes violently at speed,"Suspension, wheels & tires",Product defect,0.01,Violent front-end shaking after bumps (death wobble),Steering,Product defect,changed,NHTSA code split STEERING 44% / SUSPENSION 41%
+52,1146,Coolant leaks into engine cylinders,Engine & cooling,Product defect,0.0,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+8,1135,Cam phasers fail causing rattling sound,Engine & cooling,Product defect,0.01,Cam phasers fail causing rattling sound,Engine & cooling,Product defect,kept,
+50,1123,Transmission unexpectedly downshifts to first gear,Transmission & driveline,Product defect,0.12,Transmission unexpectedly downshifts,Transmission & driveline,Product defect,changed,2 clusters merged
+15,1089,Coolant leaks into engine cylinders,Engine & cooling,Product defect,0.01,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+55,1086,Power steering module fails,Steering,Product defect,0.02,Power steering assist fails while driving,Steering,Product defect,changed,4 clusters merged
+36,1075,Transmission fails to accelerate,Transmission & driveline,Product defect,0.03,Vehicle hesitates or loses power when accelerating,Transmission & driveline,Product defect,changed,hotline and web wording of the same symptom; NHTSA code mostly POWER TRAIN
+19,1039,Driver assist systems malfunction intermittently,Cameras & driver assistance,Product defect,0.01,Driver assist systems malfunction intermittently,Cameras & driver assistance,Product defect,kept,
+64,1034,Engine stalls while driving,Engine & cooling,Product defect,0.02,Engine stalls while driving,Engine & cooling,Product defect,kept,
+24,1018,Coolant leaks into engine block,Engine & cooling,Product defect,0.0,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+14,1010,Driver door spot welds fracture,"Body, doors & glass",Product defect,0.0,Driver door spot welds fracture,"Body, doors & glass",Product defect,kept,
+21,987,Hybrid battery drains and fails to start,Electrical & battery,Product defect,0.04,"High-voltage battery fault, vehicle will not start",Electrical & battery,Product defect,changed,HVBJB = high voltage battery junction box
+17,943,Backup camera image goes blank or distorted,Cameras & driver assistance,Recall or service process,0.8,Recall parts unavailable: backup camera,Cameras & driver assistance,Recall or service process,changed,LLM label for #41 was wrong; 66-80% cite a recall parts delay
+37,938,Coolant intrusion causes engine damage,Engine & cooling,Product defect,0.02,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+38,931,Engine oil pressure warning triggers stall,Engine & cooling,Recall or service process,0.82,Recall parts unavailable: engine cooling,Engine & cooling,Recall or service process,changed,LLM label was wrong ('oil pressure'); 82% cite a recall parts delay
+12,892,Seat belt retractors fail to extend,Airbags & seat belts,Product defect,0.12,Seat belt retractors fail to extend,Airbags & seat belts,Product defect,kept,
+60,890,Engine loses power and accelerator unresponsive,Engine & cooling,Product defect,0.0,Vehicle hesitates or loses power when accelerating,Transmission & driveline,Product defect,changed,hotline and web wording of the same symptom; NHTSA code mostly POWER TRAIN
+31,863,Backup camera image goes blank,Cameras & driver assistance,Recall or service process,0.06,"Backup camera image blank, distorted or flipped",Cameras & driver assistance,Product defect,changed,4 clusters merged
+42,861,Backup camera image goes blank,Cameras & driver assistance,Product defect,0.01,"Backup camera image blank, distorted or flipped",Cameras & driver assistance,Product defect,changed,4 clusters merged
+33,838,Door latch mechanism fails to secure,"Body, doors & glass",Product defect,0.0,"Door latch fails, door does not stay closed","Body, doors & glass",Product defect,changed,2 clusters merged
+18,834,Engine compartment catches fire,Fire & crash reports,Product defect,0.01,Engine compartment catches fire,Fire & crash reports,Product defect,kept,
+22,811,Airbag warning light illuminates,Airbags & seat belts,Product defect,0.11,Airbag warning light illuminates,Airbags & seat belts,Product defect,kept,
+28,804,Coolant leaks into engine causing white smoke,Engine & cooling,Product defect,0.0,"Coolant leaks into cylinders, engine needs replacing",Engine & cooling,Product defect,changed,"7 clusters, same failure in different wording (EcoBoost coolant intrusion)"
+20,802,Airbags fail to deploy or inflate,Airbags & seat belts,Product defect,0.01,Airbags fail to deploy or inflate,Airbags & seat belts,Product defect,kept,
+49,790,Brake booster fails to engage,Brakes,Product defect,0.02,Brake booster fails to engage,Brakes,Product defect,kept,
+27,758,Fuel tank develops crack and leaks,Fuel system & emissions,Product defect,0.03,Fuel odor or fuel tank leak,Fuel system & emissions,Product defect,changed,
+23,741,Panoramic sunroof glass shatters spontaneously,"Body, doors & glass",Product defect,0.01,Panoramic sunroof glass shatters spontaneously,"Body, doors & glass",Product defect,kept,
+79,738,Fuel pump fails causing stall,Fuel system & emissions,Product defect,0.23,Fuel pump fails causing stall,Fuel system & emissions,Product defect,kept,
+30,713,Rear window glass shatters spontaneously,"Body, doors & glass",Product defect,0.01,Rear window glass shatters spontaneously,"Body, doors & glass",Product defect,kept,
+25,704,Lug nuts swell and fail to remove,"Suspension, wheels & tires",Product defect,0.0,Lug nuts swell and fail to remove,"Suspension, wheels & tires",Product defect,kept,
+83,681,Brake pedal fails to stop vehicle,Brakes,Product defect,0.03,"Unintended acceleration despite braking, crash",Fire & crash reports,Product defect,changed,LLM label 'brake pedal fails' missed the acceleration; NHTSA codes split
+71,662,Power train recall parts unavailable,Transmission & driveline,Recall or service process,0.85,Recall parts unavailable: power train,Transmission & driveline,Recall or service process,changed,
+29,657,Headlight assembly delaminates and fails,"Lights, climate & infotainment",Product defect,0.01,Headlight assembly delaminates and fails,"Lights, climate & infotainment",Product defect,kept,
+34,652,Canister purge valve fails after refueling,Fuel system & emissions,Product defect,0.03,Canister purge valve fails after refueling,Fuel system & emissions,Product defect,kept,
+58,641,Backup camera image goes blank,Cameras & driver assistance,Product defect,0.03,"Backup camera image blank, distorted or flipped",Cameras & driver assistance,Product defect,changed,4 clusters merged
+74,630,Recall fuel system part unavailable,Fuel system & emissions,Recall or service process,0.91,Recall parts unavailable: fuel system,Fuel system & emissions,Recall or service process,changed,
+43,622,Throttle body failure causes limp mode,Engine & cooling,Product defect,0.0,Throttle body failure causes limp mode,Engine & cooling,Product defect,kept,
+51,585,Transmission clutch shudders during acceleration,Transmission & driveline,Product defect,0.0,Torque converter or clutch shudder,Transmission & driveline,Product defect,changed,2 clusters merged
+53,564,Engine shuts off while driving,Engine & cooling,Product defect,0.0,Engine shuts off with 'stop safely now' warning,Engine & cooling,Product defect,changed,
+66,556,Steering rack pinion fails,Steering,Product defect,0.03,Steering rack pinion fails,Steering,Product defect,kept,
+32,552,Windshield wiper motor fails intermittently,Electrical & battery,Product defect,0.08,Windshield wiper motor fails intermittently,Electrical & battery,Product defect,kept,
+35,549,Tire tread separation and sidewall cracks,"Suspension, wheels & tires",Product defect,0.01,Tire tread separation and sidewall cracks,"Suspension, wheels & tires",Product defect,kept,
+44,536,Recall parts unavailable for repairs,General / multiple systems,Recall or service process,0.89,Recall parts unavailable: several open recalls,General / multiple systems,Recall or service process,changed,
+48,522,Door latch fails to secure securely,"Body, doors & glass",Product defect,0.09,"Door latch fails, door does not stay closed","Body, doors & glass",Product defect,changed,2 clusters merged
+40,495,HVAC blower motor fails to operate,"Lights, climate & infotainment",Product defect,0.05,HVAC blower motor fails to operate,"Lights, climate & infotainment",Product defect,kept,
+70,487,Brake pedal goes to floor,Brakes,Product defect,0.0,"Brake pedal sinks to floor, brake fluid leak",Brakes,Product defect,changed,"LLM marked #1 as recall; only 22% cite a parts delay, so defect"
+46,479,Rear axle bolt shears off,"Suspension, wheels & tires",Product defect,0.1,Rear axle bolt shears off,"Suspension, wheels & tires",Product defect,kept,
+54,459,Torque converter fails causing shudder,Transmission & driveline,Product defect,0.02,Torque converter or clutch shudder,Transmission & driveline,Product defect,changed,2 clusters merged
+69,455,Oil pump belt causes engine failure,Engine & cooling,Product defect,0.06,Oil pump failure or low oil pressure damages engine,Engine & cooling,Product defect,changed,2 clusters merged
+56,411,Fuel pump and purge valve fail causing stalls,Fuel system & emissions,Product defect,0.0,Fuel pump and purge valve fail causing stalls,Fuel system & emissions,Product defect,kept,
+62,411,High pressure fuel pump fails catastrophically,Fuel system & emissions,Product defect,0.02,High pressure fuel pump fails catastrophically,Fuel system & emissions,Product defect,kept,
+47,407,Water leaks into cabin from roof,"Body, doors & glass",Product defect,0.0,Water leaks into cabin from roof,"Body, doors & glass",Product defect,kept,
+45,396,Frame and subframe rust through,"Body, doors & glass",Product defect,0.0,Frame and subframe rust through,"Body, doors & glass",Product defect,kept,
+57,367,APIM module causes screen and infotainment failure,"Lights, climate & infotainment",Product defect,0.02,APIM module causes screen and infotainment failure,"Lights, climate & infotainment",Product defect,kept,
+72,361,Oil pressure warning light triggers engine failure,Engine & cooling,Product defect,0.04,Oil pump failure or low oil pressure damages engine,Engine & cooling,Product defect,changed,2 clusters merged
+77,357,Rear differential bearing fails,Transmission & driveline,Product defect,0.04,Rear differential bearing fails,Transmission & driveline,Product defect,kept,
+59,346,Instrument cluster screen goes blank,Electrical & battery,Product defect,0.01,Instrument cluster screen goes blank,Electrical & battery,Product defect,kept,
+65,345,Internal water pump leaks coolant,Engine & cooling,Product defect,0.01,Internal water pump leaks coolant,Engine & cooling,Product defect,kept,
+61,306,Audio system speakers emit loud static,"Lights, climate & infotainment",Product defect,0.0,Audio system speakers emit loud static,"Lights, climate & infotainment",Product defect,kept,
+67,293,Oil pan leaks and requires replacement,Engine & cooling,Product defect,0.02,Oil pan leaks and requires replacement,Engine & cooling,Product defect,kept,
+68,264,Door latch freezes in cold weather,"Body, doors & glass",Product defect,0.0,Door latch freezes in cold weather,"Body, doors & glass",Product defect,kept,
+63,263,Tailgate unlatches and opens unexpectedly,"Body, doors & glass",Product defect,0.0,Tailgate unlatches and opens unexpectedly,"Body, doors & glass",Product defect,kept,
+80,256,Rearview camera image goes blank,Cameras & driver assistance,Recall or service process,0.1,"Backup camera image blank, distorted or flipped",Cameras & driver assistance,Product defect,changed,4 clusters merged
+75,235,Door ajar sensor falsely triggers lock failure,"Body, doors & glass",Product defect,0.0,Door ajar sensor falsely triggers lock failure,"Body, doors & glass",Product defect,kept,
+73,228,Flex plate cracks and rattles,Transmission & driveline,Product defect,0.0,Flex plate cracks and rattles,Transmission & driveline,Product defect,kept,
+78,228,Rear brake pads squeal during reverse,Brakes,Product defect,0.04,Rear brake pads squeal during reverse,Brakes,Product defect,kept,
+76,226,Rear suspension toe link fractures,"Suspension, wheels & tires",Product defect,0.06,Rear suspension toe link fractures,"Suspension, wheels & tires",Product defect,kept,
+88,183,Water intrusion in tail light assemblies,"Lights, climate & infotainment",Product defect,0.02,Water intrusion in tail light assemblies,"Lights, climate & infotainment",Product defect,kept,
+81,179,Hood paint peels and corrodes,"Body, doors & glass",Product defect,0.01,Hood paint peels and corrodes,"Body, doors & glass",Product defect,kept,
+85,177,Rear liftgate opens unexpectedly,"Body, doors & glass",Product defect,0.0,Rear liftgate opens unexpectedly,"Body, doors & glass",Product defect,kept,
+89,174,Exhaust manifold studs warp and break,Fuel system & emissions,Product defect,0.01,Exhaust manifold studs warp and break,Fuel system & emissions,Product defect,kept,
+86,174,Front and rear suspension springs break,"Suspension, wheels & tires",Product defect,0.05,Front and rear suspension springs break,"Suspension, wheels & tires",Product defect,kept,
+87,169,Trailer brake controller fails to apply brakes,Brakes,Product defect,0.04,Trailer brake controller fails to apply brakes,Brakes,Product defect,kept,
+84,168,AWD module fails causing safety system loss,Electrical & battery,Product defect,0.0,AWD module fails causing safety system loss,Electrical & battery,Product defect,kept,
+-1,7319,Unclustered (one-off complaints),General / multiple systems,Product defect,0.01,Unclustered (one-off complaints),General / multiple systems,Product defect,kept,
+-2,860,Text too short to classify,General / multiple systems,Product defect,0.0,Text too short to classify,General / multiple systems,Product defect,kept,

@@ -1,0 +1,126 @@
+
+=== Size ===
+rows (complaint x component): 623,156
+unique complaints (ODINO):    428,906
+rows per complaint: 1.45 on average
+1    292091
+2     80334
+3     55738
+4       607
+5        66
+6        67
+
+=== Date range (LDATE = date NHTSA received it) ===
+2020-01-01 to 2026-10-13
+complaints per month, last 6:
+LDATE
+2026-05-01    6158
+2026-06-01    6372
+2026-07-01    6508
+2026-08-01    7048
+2026-09-01    6998
+2026-10-01    2705
+Freq: MS
+
+=== Product type (V vehicle, T tires, E equipment, C child seat) ===
+PROD_TYPE
+V    425806
+C      1230
+T      1012
+E       852
+          6
+
+=== Free text (CDESCR), one row per complaint ===
+empty:              0.0%
+under 10 words:     3.3%
+words, quantiles:
+0.10     22.0
+0.25     49.0
+0.50     87.0
+0.75    135.0
+0.90    211.0
+0.99    355.0
+hit the 2048 char cap (truncated): 0.4%
+total words:        44,510,139
+
+=== Same text on every component row of a complaint? ===
+complaints with >1 distinct text: 0
+
+=== Component codes (COMPDESC), row level ===
+distinct full codes: 718
+distinct top level:  52
+COMP_TOP
+ENGINE                         92447
+ELECTRICAL SYSTEM              79383
+POWER TRAIN                    63528
+UNKNOWN OR OTHER               61236
+STEERING                       39825
+SERVICE BRAKES                 35650
+FORWARD COLLISION AVOIDANCE    28714
+FUEL/PROPULSION SYSTEM         28552
+AIR BAGS                       25509
+STRUCTURE                      23347
+VEHICLE SPEED CONTROL          16387
+SUSPENSION                     16210
+EXTERIOR LIGHTING              13796
+VISIBILITY/WIPER               12455
+ENGINE AND ENGINE COOLING      11427
+
+=== Manufacturers, complaint level, top 12 ===
+MFR_NAME
+Ford Motor Company                   84346
+General Motors, LLC                  61096
+Chrysler (FCA US, LLC)               60369
+Honda (American Honda Motor Co.)     41178
+Hyundai Motor America                29054
+Toyota Motor Corporation             27066
+Kia America, Inc.                    24359
+Nissan North America, Inc.           19432
+Volkswagen Group of America, Inc.    14124
+Subaru of America, Inc.              13055
+Tesla, Inc.                          12673
+BMW of North America, LLC             9544
+
+=== Make + model, complaint level, top 12 ===
+FORD F-150                  13593
+FORD ESCAPE                 13015
+FORD EXPLORER               10021
+RAM 1500                     9108
+FORD FUSION                  7966
+CHEVROLET SILVERADO 1500     7909
+HONDA CR-V                   7223
+FORD EDGE                    6441
+HONDA ACCORD                 6291
+JEEP WRANGLER                6275
+JEEP GRAND CHEROKEE          6194
+HYUNDAI SONATA               5972
+
+=== Severity flags, complaint level ===
+crash:   3.8%
+fire:    1.6%
+injured >0: 2.4%
+deaths  >0: 0.07%
+towed:   5.7%
+
+=== Fill rate of the fields we will use ===
+MFR_NAME             100%
+MAKETXT              100%
+MODELTXT             100%
+YEARTXT               99%
+FAILDATE             100%
+MILES                 30%
+COMPDESC             100%
+STATE                100%
+CMPL_TYPE            100%
+VEHICLES_TOWED_YN     99%
+
+=== Complaint source (CMPL_TYPE) ===
+CMPL_TYPE
+IVOQ    333941
+EVOQ     94289
+LETR       604
+CON         35
+SVOQ        20
+MIVQ        10
+
+Saved complaints_raw.parquet: 623,156 rows, 39 columns
