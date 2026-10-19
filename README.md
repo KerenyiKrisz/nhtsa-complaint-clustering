@@ -1,6 +1,6 @@
 # NHTSA complaint clustering
 
-Turning 84,000 free text vehicle complaints into a ranked list of recurring problems: a local embedding model, HDBSCAN clustering, a local LLM for readable labels, a human review of every label, a manual accuracy check and a Power BI report. Everything runs offline on a laptop CPU.
+I have turned 84,000 free text vehicle complaints into a ranked list of recurring problems: a local embedding model, HDBSCAN clustering, a local LLM for readable labels (Ollama), review of labels, a manual accuracy check and from that made a Power BI report. Everything runs offline.
 
 ![Dashboard](docs/dashboard.png)
 
